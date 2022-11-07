@@ -70,15 +70,13 @@ let location = useLocation();
   <div class="meta">
     <h2>{{ data.title }}</h2>
     <div class="sort">
-      <Link :to="`${location.pathname}?sort=alphabetical&order=asc`"
-        >Alphabetical ⬆️</Link
+      Price
+      <Link :to="location.pathname"> ⬆️</Link>&nbsp;
+      <Link :to="`${location.pathname}?sort=price&order=desc`">⬇️</Link>
+      | Alphabetical
+      <Link :to="`${location.pathname}?sort=alphabetical&order=asc`">⬆️</Link
       >&nbsp;
-      <Link :to="`${location.pathname}?sort=alphabetical&order=desc`"
-        >Alphabetical ⬇️</Link
-      >&nbsp;
-      <Link :to="`${location.pathname}?sort=price&order=asc`">Price ⬆️</Link
-      >&nbsp;
-      <Link :to="`${location.pathname}?sort=price&order=desc`">Price ⬇️</Link>
+      <Link :to="`${location.pathname}?sort=alphabetical&order=desc`">⬇️</Link>
     </div>
     <div class="pagination">
       <Link v-if="data.prevPageHref" :to="data.prevPageHref">⏪</Link>
@@ -114,18 +112,19 @@ let location = useLocation();
 }
 
 .pagination {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   padding-top: 1rem;
   text-align: right;
 }
 
 .sort {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   padding-top: 1rem;
   text-align: right;
 }
 
-.pagination a {
+.pagination a,
+.sort a {
   text-decoration: none;
 }
 
