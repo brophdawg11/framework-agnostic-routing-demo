@@ -1,0 +1,581 @@
+[
+  {
+    "collection": {
+      "id": "gid://shopify/Collection/387214442552",
+      "handle": "backcountry",
+      "title": "Backcountry Collection",
+      "description": "Go further with our most technologically advanced boards, designed for the most demanding off-piste adventurers. These rocker-style decks are optimized for float and maneuverability so you can chase the freshies beyond all boundaries.",
+      "seo": {
+        "description": "Go further with our most technologically advanced rocker-style boards, designed to optimize float and maneuverability for the most demanding off-piste adventurers.",
+        "title": "Backcountry snowboards"
+      },
+      "image": {
+        "id": "gid://shopify/CollectionImage/1607423230008",
+        "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/collections/full.png?v=1654902705",
+        "width": 2500,
+        "height": 2500,
+        "altText": "A skier hikes up a mountain through the snow with skis over their shoulder."
+      },
+      "products": {
+        "nodes": [
+          {
+            "id": "gid://shopify/Product/7604648181816",
+            "title": "Mr. Huebert Hydroxy Snowboard",
+            "publishedAt": "2022-06-10T02:35:44Z",
+            "handle": "the-huebert-snowboard",
+            "variants": {
+              "nodes": [
+                {
+                  "id": "gid://shopify/ProductVariant/42559102648376",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg?v=1655934950",
+                    "altText": null,
+                    "width": 3908,
+                    "height": 3908
+                  },
+                  "priceV2": { "amount": "629.95", "currencyCode": "USD" },
+                  "compareAtPriceV2": {
+                    "amount": "799.99",
+                    "currencyCode": "USD"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "id": "gid://shopify/Product/7605205041208",
+            "title": "The \"Now in 3D\" Snowboard",
+            "publishedAt": "2022-06-22T21:58:53Z",
+            "handle": "the-now-in-3d-snowboard",
+            "variants": {
+              "nodes": [
+                {
+                  "id": "gid://shopify/ProductVariant/42562624815160",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_5127218a-8f6c-498f-b489-09242c0fab0a.jpg?v=1655935475",
+                    "altText": null,
+                    "width": 3908,
+                    "height": 3908
+                  },
+                  "priceV2": { "amount": "2629.95", "currencyCode": "USD" },
+                  "compareAtPriceV2": {
+                    "amount": "3000.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "id": "gid://shopify/Product/7605196881976",
+            "title": "The .dev Snowboard",
+            "publishedAt": "2022-06-22T21:51:15Z",
+            "handle": "the-dev-snowboard",
+            "variants": {
+              "nodes": [
+                {
+                  "id": "gid://shopify/ProductVariant/42562616623160",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_0a4e9096-021a-4c1e-8750-24b233166a12.jpg?v=1655934614",
+                    "altText": null,
+                    "width": 3908,
+                    "height": 3908
+                  },
+                  "priceV2": { "amount": "729.95", "currencyCode": "USD" },
+                  "compareAtPriceV2": {
+                    "amount": "799.99",
+                    "currencyCode": "USD"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "id": "gid://shopify/Product/6730943823928",
+            "title": "The Full Stack Snowboard",
+            "publishedAt": "2021-06-17T18:33:17Z",
+            "handle": "the-full-stack",
+            "variants": {
+              "nodes": [
+                {
+                  "id": "gid://shopify/ProductVariant/41007290482744",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_c8ff0b5d-c712-429a-be00-b29bd55cbc9d.jpg?v=1655933474",
+                    "altText": null,
+                    "width": 3908,
+                    "height": 3908
+                  },
+                  "priceV2": { "amount": "749.95", "currencyCode": "USD" },
+                  "compareAtPriceV2": null
+                }
+              ]
+            }
+          },
+          {
+            "id": "gid://shopify/Product/6730943955000",
+            "title": "The H2 Snowboard",
+            "publishedAt": "2021-06-17T18:33:18Z",
+            "handle": "the-h2-snowboard",
+            "variants": {
+              "nodes": [
+                {
+                  "id": "gid://shopify/ProductVariant/41007290712120",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_0a40b01b-5021-48c1-80d1-aa8ab4876d3d.jpg?v=1655933200",
+                    "altText": null,
+                    "width": 3908,
+                    "height": 3908
+                  },
+                  "priceV2": { "amount": "629.95", "currencyCode": "USD" },
+                  "compareAtPriceV2": {
+                    "amount": "799.99",
+                    "currencyCode": "USD"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "id": "gid://shopify/Product/7604647591992",
+            "title": "The Hero Snowboard",
+            "publishedAt": "2022-06-10T01:26:16Z",
+            "handle": "the-hero-snowboard",
+            "variants": {
+              "nodes": [
+                {
+                  "id": "gid://shopify/ProductVariant/42559099633720",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_52f8e304-92d9-4a36-82af-50df8fe31c69.jpg?v=1655934107",
+                    "altText": null,
+                    "width": 3908,
+                    "height": 3908
+                  },
+                  "priceV2": { "amount": "629.95", "currencyCode": "USD" },
+                  "compareAtPriceV2": {
+                    "amount": "799.99",
+                    "currencyCode": "USD"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "id": "gid://shopify/Product/7605361705016",
+            "title": "The Hosted Snowboard",
+            "publishedAt": "2022-06-22T22:56:00Z",
+            "handle": "the-hosted-snowboard",
+            "variants": {
+              "nodes": [
+                {
+                  "id": "gid://shopify/ProductVariant/42562781741112",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_b9e0da7f-db89-4d41-83f0-7f417b02831d.jpg?v=1655938557",
+                    "altText": null,
+                    "width": 3908,
+                    "height": 3908
+                  },
+                  "priceV2": { "amount": "2629.95", "currencyCode": "USD" },
+                  "compareAtPriceV2": {
+                    "amount": "3000.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "id": "gid://shopify/Product/6730850828344",
+            "title": "The Hydrogen Snowboard",
+            "publishedAt": "2022-06-09T21:22:48Z",
+            "handle": "snowboard",
+            "variants": {
+              "nodes": [
+                {
+                  "id": "gid://shopify/ProductVariant/41007289630776",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main.jpg?v=1655932274",
+                    "altText": null,
+                    "width": 3908,
+                    "height": 3908
+                  },
+                  "priceV2": { "amount": "600.0", "currencyCode": "USD" },
+                  "compareAtPriceV2": {
+                    "amount": "649.95",
+                    "currencyCode": "USD"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "id": "gid://shopify/Product/7005119283256",
+            "title": "The Liquid Snowboard",
+            "publishedAt": "2021-10-29T17:54:29Z",
+            "handle": "the-liquid",
+            "variants": {
+              "nodes": [
+                {
+                  "id": "gid://shopify/ProductVariant/41007342321720",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg?v=1655933144",
+                    "altText": null,
+                    "width": 3908,
+                    "height": 3908
+                  },
+                  "priceV2": { "amount": "749.95", "currencyCode": "USD" },
+                  "compareAtPriceV2": null
+                }
+              ]
+            }
+          },
+          {
+            "id": "gid://shopify/Product/7005113385016",
+            "title": "The Oxygen Snowboard",
+            "publishedAt": "2021-10-29T16:23:20Z",
+            "handle": "the-oxygen",
+            "variants": {
+              "nodes": [
+                {
+                  "id": "gid://shopify/ProductVariant/41007323545656",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_d624f226-0a89-4fe1-b333-0d1548b43c06.jpg?v=1655932523",
+                    "altText": null,
+                    "width": 3908,
+                    "height": 3908
+                  },
+                  "priceV2": { "amount": "1025.0", "currencyCode": "USD" },
+                  "compareAtPriceV2": null
+                }
+              ]
+            }
+          },
+          {
+            "id": "gid://shopify/Product/6730943922232",
+            "title": "The S-Series Snowboard",
+            "publishedAt": "2021-06-17T18:33:18Z",
+            "handle": "shopify-aurora",
+            "variants": {
+              "nodes": [
+                {
+                  "id": "gid://shopify/ProductVariant/41007290810424",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg?v=1655933595",
+                    "altText": null,
+                    "width": 3908,
+                    "height": 3908
+                  },
+                  "priceV2": { "amount": "699.95", "currencyCode": "USD" },
+                  "compareAtPriceV2": null
+                }
+              ]
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false,
+          "endCursor": "eyJsYXN0X2lkIjo2NzMwOTQzOTIyMjMyLCJsYXN0X3ZhbHVlIjoiVGhlIFMtU2VyaWVzIFNub3dib2FyZCJ9"
+        }
+      }
+    }
+  },
+  {
+    "collection": {
+      "id": "gid://shopify/Collection/276668186680",
+      "handle": "freestyle",
+      "title": "Freestyle Collection",
+      "description": "Carve up any slope with our complete range of freestyle snowboards, featuring cutting-edge materials and industry-first innovations. With a wide range of cambers and tapers to suit any taste and experience level, you'll find the right board for bunny-hill drifters and veteran shredders alike.",
+      "seo": {
+        "description": "Carve up any slope with our complete range of freestyle snowboards, featuring cutting-edge materials and industry-first innovations, perfect for beginners and advanced boarders alike.",
+        "title": "Freestyle snowboards"
+      },
+      "image": {
+        "id": "gid://shopify/CollectionImage/1607189626936",
+        "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/collections/image_95.png?v=1655330932",
+        "width": 2500,
+        "height": 3155,
+        "altText": "A snowboarder stands atop a snowy mountain holding his snowboard with the back facing the camera. The snowboard artwork reads Hydrogen, in a script font."
+      },
+      "products": {
+        "nodes": [
+          {
+            "id": "gid://shopify/Product/6730850828344",
+            "title": "The Hydrogen Snowboard",
+            "publishedAt": "2022-06-09T21:22:48Z",
+            "handle": "snowboard",
+            "variants": {
+              "nodes": [
+                {
+                  "id": "gid://shopify/ProductVariant/41007289630776",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main.jpg?v=1655932274",
+                    "altText": null,
+                    "width": 3908,
+                    "height": 3908
+                  },
+                  "priceV2": { "amount": "600.0", "currencyCode": "USD" },
+                  "compareAtPriceV2": {
+                    "amount": "649.95",
+                    "currencyCode": "USD"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "id": "gid://shopify/Product/6730943823928",
+            "title": "The Full Stack Snowboard",
+            "publishedAt": "2021-06-17T18:33:17Z",
+            "handle": "the-full-stack",
+            "variants": {
+              "nodes": [
+                {
+                  "id": "gid://shopify/ProductVariant/41007290482744",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_c8ff0b5d-c712-429a-be00-b29bd55cbc9d.jpg?v=1655933474",
+                    "altText": null,
+                    "width": 3908,
+                    "height": 3908
+                  },
+                  "priceV2": { "amount": "749.95", "currencyCode": "USD" },
+                  "compareAtPriceV2": null
+                }
+              ]
+            }
+          },
+          {
+            "id": "gid://shopify/Product/6730949034040",
+            "title": "The Toggle Snowboard",
+            "publishedAt": "2021-06-17T18:33:18Z",
+            "handle": "mail-it-in-freestyle-snowboard",
+            "variants": {
+              "nodes": [
+                {
+                  "id": "gid://shopify/ProductVariant/41007290613816",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_f44a9605-cd62-464d-b095-d45cdaa0d0d7.jpg?v=1655933847",
+                    "altText": null,
+                    "width": 3908,
+                    "height": 3908
+                  },
+                  "priceV2": { "amount": "885.95", "currencyCode": "USD" },
+                  "compareAtPriceV2": null
+                }
+              ]
+            }
+          },
+          {
+            "id": "gid://shopify/Product/6730943955000",
+            "title": "The H2 Snowboard",
+            "publishedAt": "2021-06-17T18:33:18Z",
+            "handle": "the-h2-snowboard",
+            "variants": {
+              "nodes": [
+                {
+                  "id": "gid://shopify/ProductVariant/41007290712120",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_0a40b01b-5021-48c1-80d1-aa8ab4876d3d.jpg?v=1655933200",
+                    "altText": null,
+                    "width": 3908,
+                    "height": 3908
+                  },
+                  "priceV2": { "amount": "629.95", "currencyCode": "USD" },
+                  "compareAtPriceV2": {
+                    "amount": "799.99",
+                    "currencyCode": "USD"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "id": "gid://shopify/Product/6730943922232",
+            "title": "The S-Series Snowboard",
+            "publishedAt": "2021-06-17T18:33:18Z",
+            "handle": "shopify-aurora",
+            "variants": {
+              "nodes": [
+                {
+                  "id": "gid://shopify/ProductVariant/41007290810424",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg?v=1655933595",
+                    "altText": null,
+                    "width": 3908,
+                    "height": 3908
+                  },
+                  "priceV2": { "amount": "699.95", "currencyCode": "USD" },
+                  "compareAtPriceV2": null
+                }
+              ]
+            }
+          },
+          {
+            "id": "gid://shopify/Product/7605196881976",
+            "title": "The .dev Snowboard",
+            "publishedAt": "2022-06-22T21:51:15Z",
+            "handle": "the-dev-snowboard",
+            "variants": {
+              "nodes": [
+                {
+                  "id": "gid://shopify/ProductVariant/42562616623160",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_0a4e9096-021a-4c1e-8750-24b233166a12.jpg?v=1655934614",
+                    "altText": null,
+                    "width": 3908,
+                    "height": 3908
+                  },
+                  "priceV2": { "amount": "729.95", "currencyCode": "USD" },
+                  "compareAtPriceV2": {
+                    "amount": "799.99",
+                    "currencyCode": "USD"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "id": "gid://shopify/Product/7604648181816",
+            "title": "Mr. Huebert Hydroxy Snowboard",
+            "publishedAt": "2022-06-10T02:35:44Z",
+            "handle": "the-huebert-snowboard",
+            "variants": {
+              "nodes": [
+                {
+                  "id": "gid://shopify/ProductVariant/42559102648376",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg?v=1655934950",
+                    "altText": null,
+                    "width": 3908,
+                    "height": 3908
+                  },
+                  "priceV2": { "amount": "629.95", "currencyCode": "USD" },
+                  "compareAtPriceV2": {
+                    "amount": "799.99",
+                    "currencyCode": "USD"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "id": "gid://shopify/Product/7005113385016",
+            "title": "The Oxygen Snowboard",
+            "publishedAt": "2021-10-29T16:23:20Z",
+            "handle": "the-oxygen",
+            "variants": {
+              "nodes": [
+                {
+                  "id": "gid://shopify/ProductVariant/41007323545656",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_d624f226-0a89-4fe1-b333-0d1548b43c06.jpg?v=1655932523",
+                    "altText": null,
+                    "width": 3908,
+                    "height": 3908
+                  },
+                  "priceV2": { "amount": "1025.0", "currencyCode": "USD" },
+                  "compareAtPriceV2": null
+                }
+              ]
+            }
+          },
+          {
+            "id": "gid://shopify/Product/7604647591992",
+            "title": "The Hero Snowboard",
+            "publishedAt": "2022-06-10T01:26:16Z",
+            "handle": "the-hero-snowboard",
+            "variants": {
+              "nodes": [
+                {
+                  "id": "gid://shopify/ProductVariant/42559099633720",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_52f8e304-92d9-4a36-82af-50df8fe31c69.jpg?v=1655934107",
+                    "altText": null,
+                    "width": 3908,
+                    "height": 3908
+                  },
+                  "priceV2": { "amount": "629.95", "currencyCode": "USD" },
+                  "compareAtPriceV2": {
+                    "amount": "799.99",
+                    "currencyCode": "USD"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "id": "gid://shopify/Product/7005119283256",
+            "title": "The Liquid Snowboard",
+            "publishedAt": "2021-10-29T17:54:29Z",
+            "handle": "the-liquid",
+            "variants": {
+              "nodes": [
+                {
+                  "id": "gid://shopify/ProductVariant/41007342321720",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg?v=1655933144",
+                    "altText": null,
+                    "width": 3908,
+                    "height": 3908
+                  },
+                  "priceV2": { "amount": "749.95", "currencyCode": "USD" },
+                  "compareAtPriceV2": null
+                }
+              ]
+            }
+          },
+          {
+            "id": "gid://shopify/Product/7605361705016",
+            "title": "The Hosted Snowboard",
+            "publishedAt": "2022-06-22T22:56:00Z",
+            "handle": "the-hosted-snowboard",
+            "variants": {
+              "nodes": [
+                {
+                  "id": "gid://shopify/ProductVariant/42562781741112",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_b9e0da7f-db89-4d41-83f0-7f417b02831d.jpg?v=1655938557",
+                    "altText": null,
+                    "width": 3908,
+                    "height": 3908
+                  },
+                  "priceV2": { "amount": "2629.95", "currencyCode": "USD" },
+                  "compareAtPriceV2": {
+                    "amount": "3000.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              ]
+            }
+          },
+          {
+            "id": "gid://shopify/Product/7605205041208",
+            "title": "The \"Now in 3D\" Snowboard",
+            "publishedAt": "2022-06-22T21:58:53Z",
+            "handle": "the-now-in-3d-snowboard",
+            "variants": {
+              "nodes": [
+                {
+                  "id": "gid://shopify/ProductVariant/42562624815160",
+                  "image": {
+                    "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_5127218a-8f6c-498f-b489-09242c0fab0a.jpg?v=1655935475",
+                    "altText": null,
+                    "width": 3908,
+                    "height": 3908
+                  },
+                  "priceV2": { "amount": "2629.95", "currencyCode": "USD" },
+                  "compareAtPriceV2": {
+                    "amount": "3000.0",
+                    "currencyCode": "USD"
+                  }
+                }
+              ]
+            }
+          }
+        ],
+        "pageInfo": {
+          "hasNextPage": false,
+          "endCursor": "eyJsYXN0X2lkIjo3NjA1MjA1MDQxMjA4LCJsYXN0X3ZhbHVlIjoiMSJ9"
+        }
+      }
+    }
+  }
+]

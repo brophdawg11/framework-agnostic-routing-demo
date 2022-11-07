@@ -1,0 +1,38 @@
+{
+  "collections": [
+    {
+      "id": "gid://shopify/Collection/276668186680",
+      "title": "Freestyle Collection",
+      "description": "Carve up any slope with our complete range of freestyle snowboards, featuring cutting-edge materials and industry-first innovations. With a wide range of cambers and tapers to suit any taste and experience level, you'll find the right board for bunny-hill drifters and veteran shredders alike.",
+      "handle": "freestyle",
+      "seo": {
+        "description": "Carve up any slope with our complete range of freestyle snowboards, featuring cutting-edge materials and industry-first innovations, perfect for beginners and advanced boarders alike.",
+        "title": "Freestyle snowboards"
+      },
+      "image": {
+        "id": "gid://shopify/CollectionImage/1607189626936",
+        "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/collections/image_95.png?v=1655330932",
+        "width": 2500,
+        "height": 3155,
+        "altText": "A snowboarder stands atop a snowy mountain holding his snowboard with the back facing the camera. The snowboard artwork reads Hydrogen, in a script font."
+      }
+    },
+    {
+      "id": "gid://shopify/Collection/387214442552",
+      "title": "Backcountry Collection",
+      "description": "Go further with our most technologically advanced boards, designed for the most demanding off-piste adventurers. These rocker-style decks are optimized for float and maneuverability so you can chase the freshies beyond all boundaries.",
+      "handle": "backcountry",
+      "seo": {
+        "description": "Go further with our most technologically advanced rocker-style boards, designed to optimize float and maneuverability for the most demanding off-piste adventurers.",
+        "title": "Backcountry snowboards"
+      },
+      "image": {
+        "id": "gid://shopify/CollectionImage/1607423230008",
+        "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/collections/full.png?v=1654902705",
+        "width": 2500,
+        "height": 2500,
+        "altText": "A skier hikes up a mountain through the snow with skis over their shoulder."
+      }
+    }
+  ]
+}
