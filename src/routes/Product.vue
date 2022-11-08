@@ -4,15 +4,8 @@ import {
   redirect,
   type LoaderFunctionArgs,
 } from "@remix-run/router";
-import { computed, effect } from "vue";
-import {
-  Form,
-  Link,
-  useActionData,
-  useLoaderData,
-  useLocation,
-  useNavigation,
-} from "remix-router-vue";
+import { computed } from "vue";
+import { Form, useActionData, useLoaderData } from "remix-router-vue";
 
 export async function action({ request }: ActionFunctionArgs) {
   let formData = await request.formData();
@@ -42,29 +35,23 @@ export async function loader({ request, params }: LoaderFunctionArgs) {
   if (!res.ok) {
     throw new Error("Product Not Found!");
   }
-  let data = await res.json();
-  return {
-    product: data.product,
-  };
+  return res;
 }
 </script>
 
 <script lang="ts" setup>
 let data = useLoaderData();
 let actionData = useActionData();
-let location = useLocation();
-let navigation = useNavigation();
-let isAdding = computed(
-  () => navigation.value.formAction === location.value.pathname
-);
 </script>
 
 <template>
   <div key="product" class="container">
     <div class="info">
       <h2>{{ data.product.title }}</h2>
+
       <div v-html="data.product.descriptionHtml" />
-      <Form method="post">
+
+      <Form method="post" replace>
         <fieldset v-for="option in data.product.options">
           {{ option.name }}
           <label v-for="(value, index) in option.values">
@@ -78,14 +65,15 @@ let isAdding = computed(
             {{ value }}
           </label>
         </fieldset>
+
         <p v-if="actionData?.error" class="error">
           {{ actionData.error }}
         </p>
-        <button type="submit" :disabled="isAdding">
-          {{ isAdding ? "Adding..." : "Add to Cart" }}
-        </button>
+
+        <button type="submit">Add to Cart</button>
       </Form>
     </div>
+
     <div>
       <div class="images">
         <img
@@ -94,6 +82,7 @@ let isAdding = computed(
           :id="`faceout-image-${index}`"
         />
       </div>
+
       <div class="controls">
         <a
           v-for="(image, index) in data.product.media.nodes"

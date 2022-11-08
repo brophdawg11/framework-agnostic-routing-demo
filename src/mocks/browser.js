@@ -4,11 +4,10 @@ import collectionsFull from "./data/collections-full.json";
 import products from "./data/products.json";
 
 window.ALL_SLOW = false;
-window.CART_SLOW = false;
+window.CART_SLOW = true;
 
 let sleep = (n) => new Promise((r) => setTimeout(r, n));
-let sleepIfSlow = (v) =>
-  (v == null ? window.ALL_SLOW : v) ? sleep(2000) : null;
+let sleepIfSlow = () => (window.ALL_SLOW ? sleep(1500) : sleep(500));
 
 let handlers = [
   rest.get("/api/collections", async (req, res, ctx) => {
@@ -37,8 +36,7 @@ let handlers = [
   }),
 
   rest.get("/api/cart", async (req, res, ctx) => {
-    await sleepIfSlow();
-    await sleepIfSlow(window.CART_SLOW);
+    await (window.CART_SLOW ? sleep(1500) : sleepIfSlow());
     let cart = localStorage.getItem("cart")
       ? JSON.parse(localStorage.getItem("cart"))
       : { items: [] };

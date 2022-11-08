@@ -294,5 +294,1329 @@
       }
     },
     "recommended": "__deferred_promise:recommended"
+  },
+  {
+    "product": {
+      "id": "gid://shopify/Product/6730943955000",
+      "title": "The H2 Snowboard",
+      "vendor": "Snowdevil",
+      "handle": "the-h2-snowboard",
+      "descriptionHtml": "<meta charset=\"utf-8\">\n<p data-mce-fragment=\"1\">Our high-tensile Vectran® board, including a bleeding-edge fracture-resistant bamboo nano-laminate, delivers unstoppable performance loved by backyard boarders.<br></p>\n<p data-mce-fragment=\"1\">Combining suppleness and durability, this board’s subtle camber and modest taper gets you unmatched speed and edge control when you need it. This board has been proven on our one-of-a-kind powder simulator so you can shred every run in style.</p>\n<ul data-mce-fragment=\"1\"></ul>",
+      "options": [
+        { "name": "Size", "values": ["154cm", "158cm", "160cm"] },
+        { "name": "Color", "values": ["Reactive Blue"] }
+      ],
+      "selectedVariant": null,
+      "media": {
+        "nodes": [
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_0a40b01b-5021-48c1-80d1-aa8ab4876d3d.jpg?v=1655933200"
+            },
+            "id": "gid://shopify/MediaImage/29262375780408",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_0a40b01b-5021-48c1-80d1-aa8ab4876d3d.jpg?v=1655933200",
+              "width": 3908,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP1_c3f0c5d4-f1a3-4eb1-9f7a-deb86b6fb0e9.jpg?v=1655933200"
+            },
+            "id": "gid://shopify/MediaImage/29262375813176",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP1_c3f0c5d4-f1a3-4eb1-9f7a-deb86b6fb0e9.jpg?v=1655933200",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP2_5ad5cc50-605a-4646-b4cd-b0fa80bc7bf8.jpg?v=1655933201"
+            },
+            "id": "gid://shopify/MediaImage/29262375845944",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP2_5ad5cc50-605a-4646-b4cd-b0fa80bc7bf8.jpg?v=1655933201",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP3_8304a1a5-b366-4b0f-8451-481c77ba4838.jpg?v=1655933201"
+            },
+            "id": "gid://shopify/MediaImage/29262375878712",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP3_8304a1a5-b366-4b0f-8451-481c77ba4838.jpg?v=1655933201",
+              "width": 3908,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP4_daca8842-e071-462d-88a3-c76876852cfd.jpg?v=1655933201"
+            },
+            "id": "gid://shopify/MediaImage/29262375911480",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP4_daca8842-e071-462d-88a3-c76876852cfd.jpg?v=1655933201",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP5_8aa5c950-b78e-4255-8105-ae06349de8f0.jpg?v=1655933201"
+            },
+            "id": "gid://shopify/MediaImage/29262375944248",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP5_8aa5c950-b78e-4255-8105-ae06349de8f0.jpg?v=1655933201",
+              "width": 3097,
+              "height": 3908
+            }
+          }
+        ]
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/41007290712120",
+            "availableForSale": true,
+            "selectedOptions": [
+              { "name": "Size", "value": "154cm" },
+              { "name": "Color", "value": "Reactive Blue" }
+            ],
+            "image": {
+              "id": "gid://shopify/ProductImage/36705303822392",
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_0a40b01b-5021-48c1-80d1-aa8ab4876d3d.jpg?v=1655933200",
+              "altText": null,
+              "width": 3908,
+              "height": 3908
+            },
+            "priceV2": { "amount": "629.95", "currencyCode": "USD" },
+            "compareAtPriceV2": { "amount": "799.99", "currencyCode": "USD" },
+            "sku": "",
+            "title": "154cm / Reactive Blue",
+            "unitPrice": null
+          }
+        ]
+      },
+      "seo": { "description": null, "title": null }
+    },
+    "shop": {
+      "name": "Hydrogen",
+      "shippingPolicy": {
+        "body": "<p>Free carbon-neutral shipping, anywhere around the world, on all orders.</p>\n<h3 data-mce-fragment=\"1\">Shipping policy</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">It's important to start by clarifying to customers that your order processing times are separate from the shipping times they see at checkout.&nbsp;</em></strong></p>\n<p data-mce-fragment=\"1\">All orders are processed within X to X business days (excluding weekends and holidays) after receiving your order confirmation email. You will receive another notification when your order has shipped.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Include any other pertinent information towards the beginning, such as potential delays due to a high volume of orders or postal service problems that are outside of your control.</em></strong></p>\n<h3 data-mce-fragment=\"1\">Domestic Shipping Rates and Estimates</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">For&nbsp;calculated shipping rates:&nbsp;</em></strong>Shipping charges for your order will be calculated and displayed at checkout.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">For&nbsp;simple flat rate shipping:</em></strong><em data-mce-fragment=\"1\">&nbsp;</em>We offer $X flat rate shipping to [list countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">You can also&nbsp;emphasize&nbsp;any free shipping thresholds you offer (e.g. free shipping for orders over $75).</em></strong><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">&nbsp;For multiple shipping options</em></strong><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">, you can list carrier options, prices, and delivery times in a table.</em></strong></p>\n<table border=\"solid black\" data-mce-fragment=\"1\">\n<tbody data-mce-fragment=\"1\">\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Shipping option</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Estimated delivery time</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Price</strong></p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 1</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 2</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 3</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n</tbody>\n</table>\n<h4 data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></h4>\n<h3 data-mce-fragment=\"1\">Local delivery</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you offer local delivery or in-store pickup to customers in your area, you can dedicate a section of your shipping policy page to explain the process or create a separate shipping page specifically for local customers.&nbsp;</em></strong><em data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></em></p>\n<p data-mce-fragment=\"1\">Free local delivery is available for orders over $X within [area of coverage]. For orders under $X, we charge $X for local delivery.</p>\n<p data-mce-fragment=\"1\">Deliveries are made from [delivery hours] on [available days]. We will contact you via text message with the phone number you provided at checkout to notify you on the day of our arrival.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">You can list out the ZIP/postal codes you service and/or consider embedding a map here so customers can easily see if they are within your local delivery range.</em></strong></p>\n<h3 data-mce-fragment=\"1\">In-store pickup</h3>\n<p data-mce-fragment=\"1\">You can skip the shipping fees with free local pickup at [list the locations where in-store pickup is available]. After placing your order and selecting local pickup at checkout, your order will be prepared and ready for pick up within X to X business days. We will send you an email when your order is ready along with instructions.&nbsp;</p>\n<p data-mce-fragment=\"1\">Our in-store pickup hours are [store hours] on [available days of the week]. Please have your order confirmation email with you when you come.</p>\n<h3 data-mce-fragment=\"1\">International Shipping</h3>\n<p data-mce-fragment=\"1\">We offer international shipping to the following countries: [list of countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If relevant you can also include countries you don’t ship to:</em></strong>&nbsp;At this time, we do not ship to [list of countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you’re using calculated shipping rates:&nbsp;</em></strong>Shipping charges for your order will be calculated and displayed at checkout.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you offer multiple international shipping options, you can list them in a table as well. You can include broader delivery timelines (e.g. 8 to 20 days) for international shipping since expectations can vary greatly depending on the destination.</em></strong></p>\n<table border=\"solid black\" data-mce-fragment=\"1\">\n<tbody data-mce-fragment=\"1\">\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Shipping option</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Estimated delivery time</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Price</strong></p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 1</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 2</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 3</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p data-mce-fragment=\"1\">&nbsp;</p>\n<p data-mce-fragment=\"1\">Your order may be subject to import duties and taxes (including VAT), which are incurred once a shipment reaches your destination country. [Your Company] is not responsible for these charges if they are applied and are your responsibility as the customer.</p>\n<h3 data-mce-fragment=\"1\">How do I check the status of my order?</h3>\n<p data-mce-fragment=\"1\">When your order has shipped, you will receive an email notification from us which will include a tracking number you can use to check its status. Please allow 48 hours for the tracking information to become available.&nbsp;</p>\n<p data-mce-fragment=\"1\">If you haven’t received your order within X days of receiving your shipping confirmation email, please contact us at support@email.com with your name and order number, and we will look into it for you.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Include a link for customers to track their order if available.</em></strong></p>\n<h3 data-mce-fragment=\"1\">Shipping to P.O. boxes</h3>\n<p data-mce-fragment=\"1\"><em data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Some carriers have limitations around shipping to P.O. Boxes. If one of your carriers falls into this group, you should look up their policy and communicate it to your customers here.&nbsp;</strong></em></p>\n<h3 data-mce-fragment=\"1\">Refunds, returns, and exchanges</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Summarize your return policy here and link out to your full<span data-mce-fragment=\"1\">&nbsp;</span></em></strong><a href=\"https://www.shopify.com/blog/return-policy\" data-mce-fragment=\"1\" data-mce-href=\"https://www.shopify.com/blog/return-policy\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">return policy page</em></strong></a><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">&nbsp;</span>if you have one.&nbsp;</em></strong></p>\n<p data-mce-fragment=\"1\">We accept returns up to X days after delivery, if the item is unused and in its original condition, and we will refund the full order amount minus the shipping costs for the return.&nbsp;</p>\n<p data-mce-fragment=\"1\">In the event that your order arrives damaged in any way, please email us as soon as possible at support@email.com with your order number and a photo of the item’s condition. We address these on a case-by-case basis but will try our best to work towards a satisfactory solution.</p>\n<p data-mce-fragment=\"1\">If you have any further questions, please don't hesitate to contact us at support@email.com.</p>",
+        "handle": "shipping-policy"
+      },
+      "refundPolicy": {
+        "body": "<p>We have a 30-day return policy, which means you have 30 days after receiving your item to request a return.</p>\n<p>To be eligible for a return, your item must be in the same condition that you received it, unworn or unused, with tags, and in its original packaging. You’ll also need the receipt or proof of purchase.</p>\n<p>To start a return, you can contact us at <a href=\"mailto:chan.pai@hydrogen.shop\">chan.pai@hydrogen.shop</a>. If your return is accepted, we’ll send you a return shipping label, as well as instructions on how and where to send your package. Items sent back to us without first requesting a return will not be accepted.</p>\n<p>You can always contact us for any return question at <a href=\"mailto:chan.pai@hydrogen.shop\">chan.pai@hydrogen.shop</a>.</p>\n<h4>Damages and issues</h4>\n<p>Please inspect your order upon reception and contact us immediately if the item is defective, damaged or if you receive the wrong item, so that we can evaluate the issue and make it right.</p>\n<h4>Exceptions / non-returnable items</h4>\n<p>Certain types of items cannot be returned, like perishable goods (such as food, flowers, or plants), custom products (such as special orders or personalized items), and personal care goods (such as beauty products). We also do not accept returns for hazardous materials, flammable liquids, or gases. Please get in touch if you have questions or concerns about your specific item.</p>\n<p>Unfortunately, we cannot accept returns on sale items or gift cards.</p>\n<h4>Exchanges</h4>\n<p>The fastest way to ensure you get what you want is to return the item you have, and once the return is accepted, make a separate purchase for the new item.</p>\n<h4>Refunds</h4>\n<p>We will notify you once we’ve received and inspected your return, and let you know if the refund was approved or not. If approved, you’ll be automatically refunded on your original payment method. Please remember it can take some time for your bank or credit card company to process and post the refund too.</p>",
+        "handle": "refund-policy"
+      }
+    },
+    "recommended": "__deferred_promise:recommended"
+  },
+  {
+    "product": {
+      "id": "gid://shopify/Product/6730949034040",
+      "title": "The Toggle Snowboard",
+      "vendor": "Snowdevil",
+      "handle": "mail-it-in-freestyle-snowboard",
+      "descriptionHtml": "<meta charset=\"utf-8\">\n<p data-mce-fragment=\"1\">This molybdenum-infused polycarbonate snowboard, with a bleeding-edge polycyclic bamboo subtalar stabilizer, delivers unparalleled agility perfect for competitive riders.<br></p>\n<p data-mce-fragment=\"1\">Perfectly balanced between springiness and strength, this board’s mid-rise camber and gnarly taper delivers unreal virtuosity and thrust under any conditions. It’s been honed on our advanced mountain laboratory so you can surf the steep and deep in style.</p>\n<ul data-mce-fragment=\"1\"></ul>",
+      "options": [
+        { "name": "Size", "values": ["154cm", "158cm", "160cm"] },
+        { "name": "Color", "values": ["Sea Green / Desert"] }
+      ],
+      "selectedVariant": null,
+      "media": {
+        "nodes": [
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_f44a9605-cd62-464d-b095-d45cdaa0d0d7.jpg?v=1655933847"
+            },
+            "id": "gid://shopify/MediaImage/29262376534072",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_f44a9605-cd62-464d-b095-d45cdaa0d0d7.jpg?v=1655933847",
+              "width": 3908,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP1_0619cfb9-79ca-4749-80c1-6e8a162857f4.jpg?v=1655933847"
+            },
+            "id": "gid://shopify/MediaImage/29262376566840",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP1_0619cfb9-79ca-4749-80c1-6e8a162857f4.jpg?v=1655933847",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP2_16ea95f0-df7b-4129-b4cb-a1f454409405.jpg?v=1655933847"
+            },
+            "id": "gid://shopify/MediaImage/29262376599608",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP2_16ea95f0-df7b-4129-b4cb-a1f454409405.jpg?v=1655933847",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP3_173d8941-57eb-4625-8b34-c9bfb8a80a48.jpg?v=1655933846"
+            },
+            "id": "gid://shopify/MediaImage/29262376632376",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP3_173d8941-57eb-4625-8b34-c9bfb8a80a48.jpg?v=1655933846",
+              "width": 3908,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP4_7b405017-601c-4216-920f-5c49c49e0640.jpg?v=1655933848"
+            },
+            "id": "gid://shopify/MediaImage/29262376665144",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP4_7b405017-601c-4216-920f-5c49c49e0640.jpg?v=1655933848",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP5_8c8f92e4-e656-4559-a8c7-139be99b9a96.jpg?v=1655933847"
+            },
+            "id": "gid://shopify/MediaImage/29262376697912",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP5_8c8f92e4-e656-4559-a8c7-139be99b9a96.jpg?v=1655933847",
+              "width": 3097,
+              "height": 3908
+            }
+          }
+        ]
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/41007290613816",
+            "availableForSale": true,
+            "selectedOptions": [
+              { "name": "Size", "value": "154cm" },
+              { "name": "Color", "value": "Sea Green / Desert" }
+            ],
+            "image": {
+              "id": "gid://shopify/ProductImage/36705304576056",
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_f44a9605-cd62-464d-b095-d45cdaa0d0d7.jpg?v=1655933847",
+              "altText": null,
+              "width": 3908,
+              "height": 3908
+            },
+            "priceV2": { "amount": "885.95", "currencyCode": "USD" },
+            "compareAtPriceV2": null,
+            "sku": "",
+            "title": "154cm / Sea Green / Desert",
+            "unitPrice": null
+          }
+        ]
+      },
+      "seo": { "description": null, "title": null }
+    },
+    "shop": {
+      "name": "Hydrogen",
+      "shippingPolicy": {
+        "body": "<p>Free carbon-neutral shipping, anywhere around the world, on all orders.</p>\n<h3 data-mce-fragment=\"1\">Shipping policy</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">It's important to start by clarifying to customers that your order processing times are separate from the shipping times they see at checkout.&nbsp;</em></strong></p>\n<p data-mce-fragment=\"1\">All orders are processed within X to X business days (excluding weekends and holidays) after receiving your order confirmation email. You will receive another notification when your order has shipped.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Include any other pertinent information towards the beginning, such as potential delays due to a high volume of orders or postal service problems that are outside of your control.</em></strong></p>\n<h3 data-mce-fragment=\"1\">Domestic Shipping Rates and Estimates</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">For&nbsp;calculated shipping rates:&nbsp;</em></strong>Shipping charges for your order will be calculated and displayed at checkout.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">For&nbsp;simple flat rate shipping:</em></strong><em data-mce-fragment=\"1\">&nbsp;</em>We offer $X flat rate shipping to [list countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">You can also&nbsp;emphasize&nbsp;any free shipping thresholds you offer (e.g. free shipping for orders over $75).</em></strong><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">&nbsp;For multiple shipping options</em></strong><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">, you can list carrier options, prices, and delivery times in a table.</em></strong></p>\n<table border=\"solid black\" data-mce-fragment=\"1\">\n<tbody data-mce-fragment=\"1\">\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Shipping option</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Estimated delivery time</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Price</strong></p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 1</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 2</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 3</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n</tbody>\n</table>\n<h4 data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></h4>\n<h3 data-mce-fragment=\"1\">Local delivery</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you offer local delivery or in-store pickup to customers in your area, you can dedicate a section of your shipping policy page to explain the process or create a separate shipping page specifically for local customers.&nbsp;</em></strong><em data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></em></p>\n<p data-mce-fragment=\"1\">Free local delivery is available for orders over $X within [area of coverage]. For orders under $X, we charge $X for local delivery.</p>\n<p data-mce-fragment=\"1\">Deliveries are made from [delivery hours] on [available days]. We will contact you via text message with the phone number you provided at checkout to notify you on the day of our arrival.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">You can list out the ZIP/postal codes you service and/or consider embedding a map here so customers can easily see if they are within your local delivery range.</em></strong></p>\n<h3 data-mce-fragment=\"1\">In-store pickup</h3>\n<p data-mce-fragment=\"1\">You can skip the shipping fees with free local pickup at [list the locations where in-store pickup is available]. After placing your order and selecting local pickup at checkout, your order will be prepared and ready for pick up within X to X business days. We will send you an email when your order is ready along with instructions.&nbsp;</p>\n<p data-mce-fragment=\"1\">Our in-store pickup hours are [store hours] on [available days of the week]. Please have your order confirmation email with you when you come.</p>\n<h3 data-mce-fragment=\"1\">International Shipping</h3>\n<p data-mce-fragment=\"1\">We offer international shipping to the following countries: [list of countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If relevant you can also include countries you don’t ship to:</em></strong>&nbsp;At this time, we do not ship to [list of countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you’re using calculated shipping rates:&nbsp;</em></strong>Shipping charges for your order will be calculated and displayed at checkout.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you offer multiple international shipping options, you can list them in a table as well. You can include broader delivery timelines (e.g. 8 to 20 days) for international shipping since expectations can vary greatly depending on the destination.</em></strong></p>\n<table border=\"solid black\" data-mce-fragment=\"1\">\n<tbody data-mce-fragment=\"1\">\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Shipping option</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Estimated delivery time</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Price</strong></p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 1</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 2</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 3</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p data-mce-fragment=\"1\">&nbsp;</p>\n<p data-mce-fragment=\"1\">Your order may be subject to import duties and taxes (including VAT), which are incurred once a shipment reaches your destination country. [Your Company] is not responsible for these charges if they are applied and are your responsibility as the customer.</p>\n<h3 data-mce-fragment=\"1\">How do I check the status of my order?</h3>\n<p data-mce-fragment=\"1\">When your order has shipped, you will receive an email notification from us which will include a tracking number you can use to check its status. Please allow 48 hours for the tracking information to become available.&nbsp;</p>\n<p data-mce-fragment=\"1\">If you haven’t received your order within X days of receiving your shipping confirmation email, please contact us at support@email.com with your name and order number, and we will look into it for you.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Include a link for customers to track their order if available.</em></strong></p>\n<h3 data-mce-fragment=\"1\">Shipping to P.O. boxes</h3>\n<p data-mce-fragment=\"1\"><em data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Some carriers have limitations around shipping to P.O. Boxes. If one of your carriers falls into this group, you should look up their policy and communicate it to your customers here.&nbsp;</strong></em></p>\n<h3 data-mce-fragment=\"1\">Refunds, returns, and exchanges</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Summarize your return policy here and link out to your full<span data-mce-fragment=\"1\">&nbsp;</span></em></strong><a href=\"https://www.shopify.com/blog/return-policy\" data-mce-fragment=\"1\" data-mce-href=\"https://www.shopify.com/blog/return-policy\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">return policy page</em></strong></a><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">&nbsp;</span>if you have one.&nbsp;</em></strong></p>\n<p data-mce-fragment=\"1\">We accept returns up to X days after delivery, if the item is unused and in its original condition, and we will refund the full order amount minus the shipping costs for the return.&nbsp;</p>\n<p data-mce-fragment=\"1\">In the event that your order arrives damaged in any way, please email us as soon as possible at support@email.com with your order number and a photo of the item’s condition. We address these on a case-by-case basis but will try our best to work towards a satisfactory solution.</p>\n<p data-mce-fragment=\"1\">If you have any further questions, please don't hesitate to contact us at support@email.com.</p>",
+        "handle": "shipping-policy"
+      },
+      "refundPolicy": {
+        "body": "<p>We have a 30-day return policy, which means you have 30 days after receiving your item to request a return.</p>\n<p>To be eligible for a return, your item must be in the same condition that you received it, unworn or unused, with tags, and in its original packaging. You’ll also need the receipt or proof of purchase.</p>\n<p>To start a return, you can contact us at <a href=\"mailto:chan.pai@hydrogen.shop\">chan.pai@hydrogen.shop</a>. If your return is accepted, we’ll send you a return shipping label, as well as instructions on how and where to send your package. Items sent back to us without first requesting a return will not be accepted.</p>\n<p>You can always contact us for any return question at <a href=\"mailto:chan.pai@hydrogen.shop\">chan.pai@hydrogen.shop</a>.</p>\n<h4>Damages and issues</h4>\n<p>Please inspect your order upon reception and contact us immediately if the item is defective, damaged or if you receive the wrong item, so that we can evaluate the issue and make it right.</p>\n<h4>Exceptions / non-returnable items</h4>\n<p>Certain types of items cannot be returned, like perishable goods (such as food, flowers, or plants), custom products (such as special orders or personalized items), and personal care goods (such as beauty products). We also do not accept returns for hazardous materials, flammable liquids, or gases. Please get in touch if you have questions or concerns about your specific item.</p>\n<p>Unfortunately, we cannot accept returns on sale items or gift cards.</p>\n<h4>Exchanges</h4>\n<p>The fastest way to ensure you get what you want is to return the item you have, and once the return is accepted, make a separate purchase for the new item.</p>\n<h4>Refunds</h4>\n<p>We will notify you once we’ve received and inspected your return, and let you know if the refund was approved or not. If approved, you’ll be automatically refunded on your original payment method. Please remember it can take some time for your bank or credit card company to process and post the refund too.</p>",
+        "handle": "refund-policy"
+      }
+    },
+    "recommended": "__deferred_promise:recommended"
+  },
+  {
+    "product": {
+      "id": "gid://shopify/Product/6730943922232",
+      "title": "The S-Series Snowboard",
+      "vendor": "Snowdevil",
+      "handle": "shopify-aurora",
+      "descriptionHtml": "<meta charset=\"utf-8\">\n<p data-mce-fragment=\"1\">This aircraft-grade ultra-high-molecular-weight polyethylene snowboard, featuring a patent-pending 3D-printed rip-stop nylon conduction band, promises unparallelled action loved by big-mountain riders.<br></p>\n<p data-mce-fragment=\"1\">Perfectly balanced between suppleness and strength, this board’s setback camber and aggressive taper gets you unreal finesse and propulsion with no trade-offs. It’s been honed on our state-of-the-art mountain laboratory so you can hit the steep and deep with steez.</p>\n<ul data-mce-fragment=\"1\"></ul>",
+      "options": [{ "name": "Size", "values": ["154cm", "158cm", "160cm"] }],
+      "selectedVariant": null,
+      "media": {
+        "nodes": [
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg?v=1655933595"
+            },
+            "id": "gid://shopify/MediaImage/29262376304696",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg?v=1655933595",
+              "width": 3908,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP1_85a43fe8-f8a4-4d53-bc19-d95018535845.jpg?v=1655933596"
+            },
+            "id": "gid://shopify/MediaImage/29262376337464",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP1_85a43fe8-f8a4-4d53-bc19-d95018535845.jpg?v=1655933596",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP2_3285ad0f-0eb4-43d5-a0db-201eef841548.jpg?v=1655933595"
+            },
+            "id": "gid://shopify/MediaImage/29262376370232",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP2_3285ad0f-0eb4-43d5-a0db-201eef841548.jpg?v=1655933595",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP3_486648f0-abc6-4248-9a5a-8df97550ef4b.jpg?v=1655933595"
+            },
+            "id": "gid://shopify/MediaImage/29262376403000",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP3_486648f0-abc6-4248-9a5a-8df97550ef4b.jpg?v=1655933595",
+              "width": 3908,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP4_7a732352-a5ab-41d9-85a5-515a750dc990.jpg?v=1655933596"
+            },
+            "id": "gid://shopify/MediaImage/29262376435768",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP4_7a732352-a5ab-41d9-85a5-515a750dc990.jpg?v=1655933596",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP5_71fd25dd-d6d3-4d95-a3c9-78c9c7aa2526.jpg?v=1655933596"
+            },
+            "id": "gid://shopify/MediaImage/29262376468536",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP5_71fd25dd-d6d3-4d95-a3c9-78c9c7aa2526.jpg?v=1655933596",
+              "width": 3097,
+              "height": 3908
+            }
+          }
+        ]
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/41007290810424",
+            "availableForSale": true,
+            "selectedOptions": [{ "name": "Size", "value": "154cm" }],
+            "image": {
+              "id": "gid://shopify/ProductImage/36705304248376",
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_589fc064-24a2-4236-9eaf-13b2bd35d21d.jpg?v=1655933595",
+              "altText": null,
+              "width": 3908,
+              "height": 3908
+            },
+            "priceV2": { "amount": "699.95", "currencyCode": "USD" },
+            "compareAtPriceV2": null,
+            "sku": "",
+            "title": "154cm",
+            "unitPrice": null
+          }
+        ]
+      },
+      "seo": { "description": null, "title": null }
+    },
+    "shop": {
+      "name": "Hydrogen",
+      "shippingPolicy": {
+        "body": "<p>Free carbon-neutral shipping, anywhere around the world, on all orders.</p>\n<h3 data-mce-fragment=\"1\">Shipping policy</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">It's important to start by clarifying to customers that your order processing times are separate from the shipping times they see at checkout.&nbsp;</em></strong></p>\n<p data-mce-fragment=\"1\">All orders are processed within X to X business days (excluding weekends and holidays) after receiving your order confirmation email. You will receive another notification when your order has shipped.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Include any other pertinent information towards the beginning, such as potential delays due to a high volume of orders or postal service problems that are outside of your control.</em></strong></p>\n<h3 data-mce-fragment=\"1\">Domestic Shipping Rates and Estimates</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">For&nbsp;calculated shipping rates:&nbsp;</em></strong>Shipping charges for your order will be calculated and displayed at checkout.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">For&nbsp;simple flat rate shipping:</em></strong><em data-mce-fragment=\"1\">&nbsp;</em>We offer $X flat rate shipping to [list countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">You can also&nbsp;emphasize&nbsp;any free shipping thresholds you offer (e.g. free shipping for orders over $75).</em></strong><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">&nbsp;For multiple shipping options</em></strong><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">, you can list carrier options, prices, and delivery times in a table.</em></strong></p>\n<table border=\"solid black\" data-mce-fragment=\"1\">\n<tbody data-mce-fragment=\"1\">\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Shipping option</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Estimated delivery time</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Price</strong></p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 1</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 2</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 3</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n</tbody>\n</table>\n<h4 data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></h4>\n<h3 data-mce-fragment=\"1\">Local delivery</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you offer local delivery or in-store pickup to customers in your area, you can dedicate a section of your shipping policy page to explain the process or create a separate shipping page specifically for local customers.&nbsp;</em></strong><em data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></em></p>\n<p data-mce-fragment=\"1\">Free local delivery is available for orders over $X within [area of coverage]. For orders under $X, we charge $X for local delivery.</p>\n<p data-mce-fragment=\"1\">Deliveries are made from [delivery hours] on [available days]. We will contact you via text message with the phone number you provided at checkout to notify you on the day of our arrival.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">You can list out the ZIP/postal codes you service and/or consider embedding a map here so customers can easily see if they are within your local delivery range.</em></strong></p>\n<h3 data-mce-fragment=\"1\">In-store pickup</h3>\n<p data-mce-fragment=\"1\">You can skip the shipping fees with free local pickup at [list the locations where in-store pickup is available]. After placing your order and selecting local pickup at checkout, your order will be prepared and ready for pick up within X to X business days. We will send you an email when your order is ready along with instructions.&nbsp;</p>\n<p data-mce-fragment=\"1\">Our in-store pickup hours are [store hours] on [available days of the week]. Please have your order confirmation email with you when you come.</p>\n<h3 data-mce-fragment=\"1\">International Shipping</h3>\n<p data-mce-fragment=\"1\">We offer international shipping to the following countries: [list of countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If relevant you can also include countries you don’t ship to:</em></strong>&nbsp;At this time, we do not ship to [list of countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you’re using calculated shipping rates:&nbsp;</em></strong>Shipping charges for your order will be calculated and displayed at checkout.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you offer multiple international shipping options, you can list them in a table as well. You can include broader delivery timelines (e.g. 8 to 20 days) for international shipping since expectations can vary greatly depending on the destination.</em></strong></p>\n<table border=\"solid black\" data-mce-fragment=\"1\">\n<tbody data-mce-fragment=\"1\">\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Shipping option</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Estimated delivery time</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Price</strong></p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 1</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 2</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 3</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p data-mce-fragment=\"1\">&nbsp;</p>\n<p data-mce-fragment=\"1\">Your order may be subject to import duties and taxes (including VAT), which are incurred once a shipment reaches your destination country. [Your Company] is not responsible for these charges if they are applied and are your responsibility as the customer.</p>\n<h3 data-mce-fragment=\"1\">How do I check the status of my order?</h3>\n<p data-mce-fragment=\"1\">When your order has shipped, you will receive an email notification from us which will include a tracking number you can use to check its status. Please allow 48 hours for the tracking information to become available.&nbsp;</p>\n<p data-mce-fragment=\"1\">If you haven’t received your order within X days of receiving your shipping confirmation email, please contact us at support@email.com with your name and order number, and we will look into it for you.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Include a link for customers to track their order if available.</em></strong></p>\n<h3 data-mce-fragment=\"1\">Shipping to P.O. boxes</h3>\n<p data-mce-fragment=\"1\"><em data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Some carriers have limitations around shipping to P.O. Boxes. If one of your carriers falls into this group, you should look up their policy and communicate it to your customers here.&nbsp;</strong></em></p>\n<h3 data-mce-fragment=\"1\">Refunds, returns, and exchanges</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Summarize your return policy here and link out to your full<span data-mce-fragment=\"1\">&nbsp;</span></em></strong><a href=\"https://www.shopify.com/blog/return-policy\" data-mce-fragment=\"1\" data-mce-href=\"https://www.shopify.com/blog/return-policy\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">return policy page</em></strong></a><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">&nbsp;</span>if you have one.&nbsp;</em></strong></p>\n<p data-mce-fragment=\"1\">We accept returns up to X days after delivery, if the item is unused and in its original condition, and we will refund the full order amount minus the shipping costs for the return.&nbsp;</p>\n<p data-mce-fragment=\"1\">In the event that your order arrives damaged in any way, please email us as soon as possible at support@email.com with your order number and a photo of the item’s condition. We address these on a case-by-case basis but will try our best to work towards a satisfactory solution.</p>\n<p data-mce-fragment=\"1\">If you have any further questions, please don't hesitate to contact us at support@email.com.</p>",
+        "handle": "shipping-policy"
+      },
+      "refundPolicy": {
+        "body": "<p>We have a 30-day return policy, which means you have 30 days after receiving your item to request a return.</p>\n<p>To be eligible for a return, your item must be in the same condition that you received it, unworn or unused, with tags, and in its original packaging. You’ll also need the receipt or proof of purchase.</p>\n<p>To start a return, you can contact us at <a href=\"mailto:chan.pai@hydrogen.shop\">chan.pai@hydrogen.shop</a>. If your return is accepted, we’ll send you a return shipping label, as well as instructions on how and where to send your package. Items sent back to us without first requesting a return will not be accepted.</p>\n<p>You can always contact us for any return question at <a href=\"mailto:chan.pai@hydrogen.shop\">chan.pai@hydrogen.shop</a>.</p>\n<h4>Damages and issues</h4>\n<p>Please inspect your order upon reception and contact us immediately if the item is defective, damaged or if you receive the wrong item, so that we can evaluate the issue and make it right.</p>\n<h4>Exceptions / non-returnable items</h4>\n<p>Certain types of items cannot be returned, like perishable goods (such as food, flowers, or plants), custom products (such as special orders or personalized items), and personal care goods (such as beauty products). We also do not accept returns for hazardous materials, flammable liquids, or gases. Please get in touch if you have questions or concerns about your specific item.</p>\n<p>Unfortunately, we cannot accept returns on sale items or gift cards.</p>\n<h4>Exchanges</h4>\n<p>The fastest way to ensure you get what you want is to return the item you have, and once the return is accepted, make a separate purchase for the new item.</p>\n<h4>Refunds</h4>\n<p>We will notify you once we’ve received and inspected your return, and let you know if the refund was approved or not. If approved, you’ll be automatically refunded on your original payment method. Please remember it can take some time for your bank or credit card company to process and post the refund too.</p>",
+        "handle": "refund-policy"
+      }
+    },
+    "recommended": "__deferred_promise:recommended"
+  },
+  {
+    "product": {
+      "id": "gid://shopify/Product/7605196881976",
+      "title": "The .dev Snowboard",
+      "vendor": "Snowdevil",
+      "handle": "the-dev-snowboard",
+      "descriptionHtml": "<meta charset=\"utf-8\">\n<p data-mce-fragment=\"1\">Our heat-sealed polycarbonate snowboard, including an industry-first vibration-insulated titanium sub-layers, promises enjoyable performance loved by backyard shredders.</p>\n<p data-mce-fragment=\"1\">Perfectly balanced between nimbleness and resilience, this board’s offset camber and bold taper gives you  outstanding dexterity and power on demand. It’s been vetted by our one-of-a-kind powder simulator so you can hit the slopes in style.</p>\n<ul data-mce-fragment=\"1\"></ul>",
+      "options": [
+        { "name": "Size", "values": ["154cm", "158cm", "160cm"] },
+        { "name": "Color", "values": ["FED Green"] }
+      ],
+      "selectedVariant": null,
+      "media": {
+        "nodes": [
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_0a4e9096-021a-4c1e-8750-24b233166a12.jpg?v=1655934614"
+            },
+            "id": "gid://shopify/MediaImage/29262377156664",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_0a4e9096-021a-4c1e-8750-24b233166a12.jpg?v=1655934614",
+              "width": 3908,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP1_dca62d4a-75a6-4eff-a17b-efea311b212b.jpg?v=1655934614"
+            },
+            "id": "gid://shopify/MediaImage/29262377189432",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP1_dca62d4a-75a6-4eff-a17b-efea311b212b.jpg?v=1655934614",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP2_05365a57-6182-4971-8ccf-54f81ec94fff.jpg?v=1655934614"
+            },
+            "id": "gid://shopify/MediaImage/29262377222200",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP2_05365a57-6182-4971-8ccf-54f81ec94fff.jpg?v=1655934614",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP3_c6952197-c37a-40e9-a0b5-ef7ec52176e7.jpg?v=1655934615"
+            },
+            "id": "gid://shopify/MediaImage/29262377254968",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP3_c6952197-c37a-40e9-a0b5-ef7ec52176e7.jpg?v=1655934615",
+              "width": 3908,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP4_fcbf77d6-9ffb-429a-99ec-c7c30da26e09.jpg?v=1655934615"
+            },
+            "id": "gid://shopify/MediaImage/29262377287736",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP4_fcbf77d6-9ffb-429a-99ec-c7c30da26e09.jpg?v=1655934615",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP5_cf99caed-a998-4297-a8ed-5f193bcf9218.jpg?v=1655934615"
+            },
+            "id": "gid://shopify/MediaImage/29262377320504",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP5_cf99caed-a998-4297-a8ed-5f193bcf9218.jpg?v=1655934615",
+              "width": 3097,
+              "height": 3908
+            }
+          }
+        ]
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/42562616623160",
+            "availableForSale": true,
+            "selectedOptions": [
+              { "name": "Size", "value": "154cm" },
+              { "name": "Color", "value": "FED Green" }
+            ],
+            "image": {
+              "id": "gid://shopify/ProductImage/36705305002040",
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_0a4e9096-021a-4c1e-8750-24b233166a12.jpg?v=1655934614",
+              "altText": null,
+              "width": 3908,
+              "height": 3908
+            },
+            "priceV2": { "amount": "729.95", "currencyCode": "USD" },
+            "compareAtPriceV2": { "amount": "799.99", "currencyCode": "USD" },
+            "sku": null,
+            "title": "154cm / FED Green",
+            "unitPrice": null
+          }
+        ]
+      },
+      "seo": { "description": null, "title": null }
+    },
+    "shop": {
+      "name": "Hydrogen",
+      "shippingPolicy": {
+        "body": "<p>Free carbon-neutral shipping, anywhere around the world, on all orders.</p>\n<h3 data-mce-fragment=\"1\">Shipping policy</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">It's important to start by clarifying to customers that your order processing times are separate from the shipping times they see at checkout.&nbsp;</em></strong></p>\n<p data-mce-fragment=\"1\">All orders are processed within X to X business days (excluding weekends and holidays) after receiving your order confirmation email. You will receive another notification when your order has shipped.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Include any other pertinent information towards the beginning, such as potential delays due to a high volume of orders or postal service problems that are outside of your control.</em></strong></p>\n<h3 data-mce-fragment=\"1\">Domestic Shipping Rates and Estimates</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">For&nbsp;calculated shipping rates:&nbsp;</em></strong>Shipping charges for your order will be calculated and displayed at checkout.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">For&nbsp;simple flat rate shipping:</em></strong><em data-mce-fragment=\"1\">&nbsp;</em>We offer $X flat rate shipping to [list countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">You can also&nbsp;emphasize&nbsp;any free shipping thresholds you offer (e.g. free shipping for orders over $75).</em></strong><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">&nbsp;For multiple shipping options</em></strong><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">, you can list carrier options, prices, and delivery times in a table.</em></strong></p>\n<table border=\"solid black\" data-mce-fragment=\"1\">\n<tbody data-mce-fragment=\"1\">\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Shipping option</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Estimated delivery time</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Price</strong></p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 1</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 2</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 3</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n</tbody>\n</table>\n<h4 data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></h4>\n<h3 data-mce-fragment=\"1\">Local delivery</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you offer local delivery or in-store pickup to customers in your area, you can dedicate a section of your shipping policy page to explain the process or create a separate shipping page specifically for local customers.&nbsp;</em></strong><em data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></em></p>\n<p data-mce-fragment=\"1\">Free local delivery is available for orders over $X within [area of coverage]. For orders under $X, we charge $X for local delivery.</p>\n<p data-mce-fragment=\"1\">Deliveries are made from [delivery hours] on [available days]. We will contact you via text message with the phone number you provided at checkout to notify you on the day of our arrival.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">You can list out the ZIP/postal codes you service and/or consider embedding a map here so customers can easily see if they are within your local delivery range.</em></strong></p>\n<h3 data-mce-fragment=\"1\">In-store pickup</h3>\n<p data-mce-fragment=\"1\">You can skip the shipping fees with free local pickup at [list the locations where in-store pickup is available]. After placing your order and selecting local pickup at checkout, your order will be prepared and ready for pick up within X to X business days. We will send you an email when your order is ready along with instructions.&nbsp;</p>\n<p data-mce-fragment=\"1\">Our in-store pickup hours are [store hours] on [available days of the week]. Please have your order confirmation email with you when you come.</p>\n<h3 data-mce-fragment=\"1\">International Shipping</h3>\n<p data-mce-fragment=\"1\">We offer international shipping to the following countries: [list of countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If relevant you can also include countries you don’t ship to:</em></strong>&nbsp;At this time, we do not ship to [list of countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you’re using calculated shipping rates:&nbsp;</em></strong>Shipping charges for your order will be calculated and displayed at checkout.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you offer multiple international shipping options, you can list them in a table as well. You can include broader delivery timelines (e.g. 8 to 20 days) for international shipping since expectations can vary greatly depending on the destination.</em></strong></p>\n<table border=\"solid black\" data-mce-fragment=\"1\">\n<tbody data-mce-fragment=\"1\">\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Shipping option</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Estimated delivery time</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Price</strong></p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 1</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 2</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 3</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p data-mce-fragment=\"1\">&nbsp;</p>\n<p data-mce-fragment=\"1\">Your order may be subject to import duties and taxes (including VAT), which are incurred once a shipment reaches your destination country. [Your Company] is not responsible for these charges if they are applied and are your responsibility as the customer.</p>\n<h3 data-mce-fragment=\"1\">How do I check the status of my order?</h3>\n<p data-mce-fragment=\"1\">When your order has shipped, you will receive an email notification from us which will include a tracking number you can use to check its status. Please allow 48 hours for the tracking information to become available.&nbsp;</p>\n<p data-mce-fragment=\"1\">If you haven’t received your order within X days of receiving your shipping confirmation email, please contact us at support@email.com with your name and order number, and we will look into it for you.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Include a link for customers to track their order if available.</em></strong></p>\n<h3 data-mce-fragment=\"1\">Shipping to P.O. boxes</h3>\n<p data-mce-fragment=\"1\"><em data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Some carriers have limitations around shipping to P.O. Boxes. If one of your carriers falls into this group, you should look up their policy and communicate it to your customers here.&nbsp;</strong></em></p>\n<h3 data-mce-fragment=\"1\">Refunds, returns, and exchanges</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Summarize your return policy here and link out to your full<span data-mce-fragment=\"1\">&nbsp;</span></em></strong><a href=\"https://www.shopify.com/blog/return-policy\" data-mce-fragment=\"1\" data-mce-href=\"https://www.shopify.com/blog/return-policy\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">return policy page</em></strong></a><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">&nbsp;</span>if you have one.&nbsp;</em></strong></p>\n<p data-mce-fragment=\"1\">We accept returns up to X days after delivery, if the item is unused and in its original condition, and we will refund the full order amount minus the shipping costs for the return.&nbsp;</p>\n<p data-mce-fragment=\"1\">In the event that your order arrives damaged in any way, please email us as soon as possible at support@email.com with your order number and a photo of the item’s condition. We address these on a case-by-case basis but will try our best to work towards a satisfactory solution.</p>\n<p data-mce-fragment=\"1\">If you have any further questions, please don't hesitate to contact us at support@email.com.</p>",
+        "handle": "shipping-policy"
+      },
+      "refundPolicy": {
+        "body": "<p>We have a 30-day return policy, which means you have 30 days after receiving your item to request a return.</p>\n<p>To be eligible for a return, your item must be in the same condition that you received it, unworn or unused, with tags, and in its original packaging. You’ll also need the receipt or proof of purchase.</p>\n<p>To start a return, you can contact us at <a href=\"mailto:chan.pai@hydrogen.shop\">chan.pai@hydrogen.shop</a>. If your return is accepted, we’ll send you a return shipping label, as well as instructions on how and where to send your package. Items sent back to us without first requesting a return will not be accepted.</p>\n<p>You can always contact us for any return question at <a href=\"mailto:chan.pai@hydrogen.shop\">chan.pai@hydrogen.shop</a>.</p>\n<h4>Damages and issues</h4>\n<p>Please inspect your order upon reception and contact us immediately if the item is defective, damaged or if you receive the wrong item, so that we can evaluate the issue and make it right.</p>\n<h4>Exceptions / non-returnable items</h4>\n<p>Certain types of items cannot be returned, like perishable goods (such as food, flowers, or plants), custom products (such as special orders or personalized items), and personal care goods (such as beauty products). We also do not accept returns for hazardous materials, flammable liquids, or gases. Please get in touch if you have questions or concerns about your specific item.</p>\n<p>Unfortunately, we cannot accept returns on sale items or gift cards.</p>\n<h4>Exchanges</h4>\n<p>The fastest way to ensure you get what you want is to return the item you have, and once the return is accepted, make a separate purchase for the new item.</p>\n<h4>Refunds</h4>\n<p>We will notify you once we’ve received and inspected your return, and let you know if the refund was approved or not. If approved, you’ll be automatically refunded on your original payment method. Please remember it can take some time for your bank or credit card company to process and post the refund too.</p>",
+        "handle": "refund-policy"
+      }
+    },
+    "recommended": "__deferred_promise:recommended"
+  },
+  {
+    "product": {
+      "id": "gid://shopify/Product/7604648181816",
+      "title": "Mr. Huebert Hydroxy Snowboard",
+      "vendor": "Snowdevil",
+      "handle": "the-huebert-snowboard",
+      "descriptionHtml": "<meta charset=\"utf-8\">\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"></span>This heat-sealed Kevlar® snowboard, including our patented vibration-insulated rip-stop nylon sub-layers, provides incredible agility perfect for backyard boarders.</p>\n<p data-mce-fragment=\"1\">Perfectly balanced between suppleness and rigidity, this board’s deep camber and angular taper gives you  remarkable finesse and force with no trade-offs. This board has been battle-tested by our state-of-the-art test facility so you can enjoy the fluffies without chatter.</p>\n<ul data-mce-fragment=\"1\"></ul>",
+      "options": [
+        { "name": "Size", "values": ["154cm", "158cm", "160cm"] },
+        { "name": "Color", "values": ["Reactive Blue"] }
+      ],
+      "selectedVariant": null,
+      "media": {
+        "nodes": [
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg?v=1655934950"
+            },
+            "id": "gid://shopify/MediaImage/29262377353272",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg?v=1655934950",
+              "width": 3908,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP1_3e432429-6259-40cd-b17c-bc966cf97993.jpg?v=1655934949"
+            },
+            "id": "gid://shopify/MediaImage/29262377386040",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP1_3e432429-6259-40cd-b17c-bc966cf97993.jpg?v=1655934949",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP2_f7f42051-3511-4d50-815a-44fbb61de977.jpg?v=1655934949"
+            },
+            "id": "gid://shopify/MediaImage/29262377418808",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP2_f7f42051-3511-4d50-815a-44fbb61de977.jpg?v=1655934949",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP3_6ca6d88e-7285-4652-bb75-3b48fa7e364f.jpg?v=1655934949"
+            },
+            "id": "gid://shopify/MediaImage/29262377451576",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP3_6ca6d88e-7285-4652-bb75-3b48fa7e364f.jpg?v=1655934949",
+              "width": 3908,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP4_1c5acabf-3857-4d7f-af19-87bffb6531ac.jpg?v=1655934950"
+            },
+            "id": "gid://shopify/MediaImage/29262377484344",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP4_1c5acabf-3857-4d7f-af19-87bffb6531ac.jpg?v=1655934950",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP5_5e0e6114-e6bd-4fff-93be-a38698bd3492.jpg?v=1655934950"
+            },
+            "id": "gid://shopify/MediaImage/29262377517112",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP5_5e0e6114-e6bd-4fff-93be-a38698bd3492.jpg?v=1655934950",
+              "width": 3097,
+              "height": 3908
+            }
+          }
+        ]
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/42559102648376",
+            "availableForSale": true,
+            "selectedOptions": [
+              { "name": "Size", "value": "154cm" },
+              { "name": "Color", "value": "Reactive Blue" }
+            ],
+            "image": {
+              "id": "gid://shopify/ProductImage/36705305231416",
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg?v=1655934950",
+              "altText": null,
+              "width": 3908,
+              "height": 3908
+            },
+            "priceV2": { "amount": "629.95", "currencyCode": "USD" },
+            "compareAtPriceV2": { "amount": "799.99", "currencyCode": "USD" },
+            "sku": null,
+            "title": "154cm / Reactive Blue",
+            "unitPrice": null
+          }
+        ]
+      },
+      "seo": {
+        "description": "This heat-sealed Kevlar® snowboard, including our patented vibration-insulated rip-stop nylon sub-layers, provides incredible agility perfect for backyard boarders. ",
+        "title": "Mr. Huebert Hydroxy"
+      }
+    },
+    "shop": {
+      "name": "Hydrogen",
+      "shippingPolicy": {
+        "body": "<p>Free carbon-neutral shipping, anywhere around the world, on all orders.</p>\n<h3 data-mce-fragment=\"1\">Shipping policy</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">It's important to start by clarifying to customers that your order processing times are separate from the shipping times they see at checkout.&nbsp;</em></strong></p>\n<p data-mce-fragment=\"1\">All orders are processed within X to X business days (excluding weekends and holidays) after receiving your order confirmation email. You will receive another notification when your order has shipped.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Include any other pertinent information towards the beginning, such as potential delays due to a high volume of orders or postal service problems that are outside of your control.</em></strong></p>\n<h3 data-mce-fragment=\"1\">Domestic Shipping Rates and Estimates</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">For&nbsp;calculated shipping rates:&nbsp;</em></strong>Shipping charges for your order will be calculated and displayed at checkout.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">For&nbsp;simple flat rate shipping:</em></strong><em data-mce-fragment=\"1\">&nbsp;</em>We offer $X flat rate shipping to [list countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">You can also&nbsp;emphasize&nbsp;any free shipping thresholds you offer (e.g. free shipping for orders over $75).</em></strong><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">&nbsp;For multiple shipping options</em></strong><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">, you can list carrier options, prices, and delivery times in a table.</em></strong></p>\n<table border=\"solid black\" data-mce-fragment=\"1\">\n<tbody data-mce-fragment=\"1\">\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Shipping option</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Estimated delivery time</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Price</strong></p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 1</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 2</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 3</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n</tbody>\n</table>\n<h4 data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></h4>\n<h3 data-mce-fragment=\"1\">Local delivery</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you offer local delivery or in-store pickup to customers in your area, you can dedicate a section of your shipping policy page to explain the process or create a separate shipping page specifically for local customers.&nbsp;</em></strong><em data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></em></p>\n<p data-mce-fragment=\"1\">Free local delivery is available for orders over $X within [area of coverage]. For orders under $X, we charge $X for local delivery.</p>\n<p data-mce-fragment=\"1\">Deliveries are made from [delivery hours] on [available days]. We will contact you via text message with the phone number you provided at checkout to notify you on the day of our arrival.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">You can list out the ZIP/postal codes you service and/or consider embedding a map here so customers can easily see if they are within your local delivery range.</em></strong></p>\n<h3 data-mce-fragment=\"1\">In-store pickup</h3>\n<p data-mce-fragment=\"1\">You can skip the shipping fees with free local pickup at [list the locations where in-store pickup is available]. After placing your order and selecting local pickup at checkout, your order will be prepared and ready for pick up within X to X business days. We will send you an email when your order is ready along with instructions.&nbsp;</p>\n<p data-mce-fragment=\"1\">Our in-store pickup hours are [store hours] on [available days of the week]. Please have your order confirmation email with you when you come.</p>\n<h3 data-mce-fragment=\"1\">International Shipping</h3>\n<p data-mce-fragment=\"1\">We offer international shipping to the following countries: [list of countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If relevant you can also include countries you don’t ship to:</em></strong>&nbsp;At this time, we do not ship to [list of countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you’re using calculated shipping rates:&nbsp;</em></strong>Shipping charges for your order will be calculated and displayed at checkout.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you offer multiple international shipping options, you can list them in a table as well. You can include broader delivery timelines (e.g. 8 to 20 days) for international shipping since expectations can vary greatly depending on the destination.</em></strong></p>\n<table border=\"solid black\" data-mce-fragment=\"1\">\n<tbody data-mce-fragment=\"1\">\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Shipping option</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Estimated delivery time</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Price</strong></p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 1</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 2</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 3</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p data-mce-fragment=\"1\">&nbsp;</p>\n<p data-mce-fragment=\"1\">Your order may be subject to import duties and taxes (including VAT), which are incurred once a shipment reaches your destination country. [Your Company] is not responsible for these charges if they are applied and are your responsibility as the customer.</p>\n<h3 data-mce-fragment=\"1\">How do I check the status of my order?</h3>\n<p data-mce-fragment=\"1\">When your order has shipped, you will receive an email notification from us which will include a tracking number you can use to check its status. Please allow 48 hours for the tracking information to become available.&nbsp;</p>\n<p data-mce-fragment=\"1\">If you haven’t received your order within X days of receiving your shipping confirmation email, please contact us at support@email.com with your name and order number, and we will look into it for you.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Include a link for customers to track their order if available.</em></strong></p>\n<h3 data-mce-fragment=\"1\">Shipping to P.O. boxes</h3>\n<p data-mce-fragment=\"1\"><em data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Some carriers have limitations around shipping to P.O. Boxes. If one of your carriers falls into this group, you should look up their policy and communicate it to your customers here.&nbsp;</strong></em></p>\n<h3 data-mce-fragment=\"1\">Refunds, returns, and exchanges</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Summarize your return policy here and link out to your full<span data-mce-fragment=\"1\">&nbsp;</span></em></strong><a href=\"https://www.shopify.com/blog/return-policy\" data-mce-fragment=\"1\" data-mce-href=\"https://www.shopify.com/blog/return-policy\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">return policy page</em></strong></a><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">&nbsp;</span>if you have one.&nbsp;</em></strong></p>\n<p data-mce-fragment=\"1\">We accept returns up to X days after delivery, if the item is unused and in its original condition, and we will refund the full order amount minus the shipping costs for the return.&nbsp;</p>\n<p data-mce-fragment=\"1\">In the event that your order arrives damaged in any way, please email us as soon as possible at support@email.com with your order number and a photo of the item’s condition. We address these on a case-by-case basis but will try our best to work towards a satisfactory solution.</p>\n<p data-mce-fragment=\"1\">If you have any further questions, please don't hesitate to contact us at support@email.com.</p>",
+        "handle": "shipping-policy"
+      },
+      "refundPolicy": {
+        "body": "<p>We have a 30-day return policy, which means you have 30 days after receiving your item to request a return.</p>\n<p>To be eligible for a return, your item must be in the same condition that you received it, unworn or unused, with tags, and in its original packaging. You’ll also need the receipt or proof of purchase.</p>\n<p>To start a return, you can contact us at <a href=\"mailto:chan.pai@hydrogen.shop\">chan.pai@hydrogen.shop</a>. If your return is accepted, we’ll send you a return shipping label, as well as instructions on how and where to send your package. Items sent back to us without first requesting a return will not be accepted.</p>\n<p>You can always contact us for any return question at <a href=\"mailto:chan.pai@hydrogen.shop\">chan.pai@hydrogen.shop</a>.</p>\n<h4>Damages and issues</h4>\n<p>Please inspect your order upon reception and contact us immediately if the item is defective, damaged or if you receive the wrong item, so that we can evaluate the issue and make it right.</p>\n<h4>Exceptions / non-returnable items</h4>\n<p>Certain types of items cannot be returned, like perishable goods (such as food, flowers, or plants), custom products (such as special orders or personalized items), and personal care goods (such as beauty products). We also do not accept returns for hazardous materials, flammable liquids, or gases. Please get in touch if you have questions or concerns about your specific item.</p>\n<p>Unfortunately, we cannot accept returns on sale items or gift cards.</p>\n<h4>Exchanges</h4>\n<p>The fastest way to ensure you get what you want is to return the item you have, and once the return is accepted, make a separate purchase for the new item.</p>\n<h4>Refunds</h4>\n<p>We will notify you once we’ve received and inspected your return, and let you know if the refund was approved or not. If approved, you’ll be automatically refunded on your original payment method. Please remember it can take some time for your bank or credit card company to process and post the refund too.</p>",
+        "handle": "refund-policy"
+      }
+    },
+    "recommended": "__deferred_promise:recommended"
+  },
+  {
+    "product": {
+      "id": "gid://shopify/Product/7604647591992",
+      "title": "The Hero Snowboard",
+      "vendor": "Snowdevil",
+      "handle": "the-hero-snowboard",
+      "descriptionHtml": "<meta charset=\"utf-8\">\n<p data-mce-fragment=\"1\">This sustainably produced polyethylene board, including an industry-first low-viscosity synthetic-diamond stability armature, provides unstoppable performance perfect for freestyle jibbers.<br></p>\n<p data-mce-fragment=\"1\">Perfectly balanced between nimbleness and brawn, this board’s setback camber and gnarly taper gets you unreal finesse and edge control on demand. This board has been vetted by our one-of-a-kind test facility so you can surf the mountain without chatter.</p>\n<ul data-mce-fragment=\"1\"></ul>",
+      "options": [
+        { "name": "Size", "values": ["154cm", "158cm", "160cm"] },
+        { "name": "Color", "values": ["Reactive Blue"] }
+      ],
+      "selectedVariant": null,
+      "media": {
+        "nodes": [
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_52f8e304-92d9-4a36-82af-50df8fe31c69.jpg?v=1655934107"
+            },
+            "id": "gid://shopify/MediaImage/29262376828984",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_52f8e304-92d9-4a36-82af-50df8fe31c69.jpg?v=1655934107",
+              "width": 3908,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP1_492b2928-2e35-4234-9ae7-b1956f9b0c1b.jpg?v=1655934107"
+            },
+            "id": "gid://shopify/MediaImage/29262376861752",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP1_492b2928-2e35-4234-9ae7-b1956f9b0c1b.jpg?v=1655934107",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP2_0a6d4149-3536-4399-89d2-e81e860974ce.jpg?v=1655934108"
+            },
+            "id": "gid://shopify/MediaImage/29262376894520",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP2_0a6d4149-3536-4399-89d2-e81e860974ce.jpg?v=1655934108",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP3_9b59f78e-e419-45cc-a5f2-92e8e77508f0.jpg?v=1655934108"
+            },
+            "id": "gid://shopify/MediaImage/29262376927288",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP3_9b59f78e-e419-45cc-a5f2-92e8e77508f0.jpg?v=1655934108",
+              "width": 3908,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP4_3f6faff7-92b0-4fd4-a8a8-515fdb5b5c48.jpg?v=1655934107"
+            },
+            "id": "gid://shopify/MediaImage/29262376960056",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP4_3f6faff7-92b0-4fd4-a8a8-515fdb5b5c48.jpg?v=1655934107",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP5_5b837203-a4bc-4d32-9ab9-d1dee61bbb00.jpg?v=1655934108"
+            },
+            "id": "gid://shopify/MediaImage/29262376992824",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP5_5b837203-a4bc-4d32-9ab9-d1dee61bbb00.jpg?v=1655934108",
+              "width": 3097,
+              "height": 3908
+            }
+          }
+        ]
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/42559099633720",
+            "availableForSale": true,
+            "selectedOptions": [
+              { "name": "Size", "value": "154cm" },
+              { "name": "Color", "value": "Reactive Blue" }
+            ],
+            "image": {
+              "id": "gid://shopify/ProductImage/36705304674360",
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_52f8e304-92d9-4a36-82af-50df8fe31c69.jpg?v=1655934107",
+              "altText": null,
+              "width": 3908,
+              "height": 3908
+            },
+            "priceV2": { "amount": "629.95", "currencyCode": "USD" },
+            "compareAtPriceV2": { "amount": "799.99", "currencyCode": "USD" },
+            "sku": null,
+            "title": "154cm / Reactive Blue",
+            "unitPrice": null
+          }
+        ]
+      },
+      "seo": { "description": null, "title": null }
+    },
+    "shop": {
+      "name": "Hydrogen",
+      "shippingPolicy": {
+        "body": "<p>Free carbon-neutral shipping, anywhere around the world, on all orders.</p>\n<h3 data-mce-fragment=\"1\">Shipping policy</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">It's important to start by clarifying to customers that your order processing times are separate from the shipping times they see at checkout.&nbsp;</em></strong></p>\n<p data-mce-fragment=\"1\">All orders are processed within X to X business days (excluding weekends and holidays) after receiving your order confirmation email. You will receive another notification when your order has shipped.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Include any other pertinent information towards the beginning, such as potential delays due to a high volume of orders or postal service problems that are outside of your control.</em></strong></p>\n<h3 data-mce-fragment=\"1\">Domestic Shipping Rates and Estimates</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">For&nbsp;calculated shipping rates:&nbsp;</em></strong>Shipping charges for your order will be calculated and displayed at checkout.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">For&nbsp;simple flat rate shipping:</em></strong><em data-mce-fragment=\"1\">&nbsp;</em>We offer $X flat rate shipping to [list countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">You can also&nbsp;emphasize&nbsp;any free shipping thresholds you offer (e.g. free shipping for orders over $75).</em></strong><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">&nbsp;For multiple shipping options</em></strong><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">, you can list carrier options, prices, and delivery times in a table.</em></strong></p>\n<table border=\"solid black\" data-mce-fragment=\"1\">\n<tbody data-mce-fragment=\"1\">\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Shipping option</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Estimated delivery time</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Price</strong></p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 1</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 2</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 3</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n</tbody>\n</table>\n<h4 data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></h4>\n<h3 data-mce-fragment=\"1\">Local delivery</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you offer local delivery or in-store pickup to customers in your area, you can dedicate a section of your shipping policy page to explain the process or create a separate shipping page specifically for local customers.&nbsp;</em></strong><em data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></em></p>\n<p data-mce-fragment=\"1\">Free local delivery is available for orders over $X within [area of coverage]. For orders under $X, we charge $X for local delivery.</p>\n<p data-mce-fragment=\"1\">Deliveries are made from [delivery hours] on [available days]. We will contact you via text message with the phone number you provided at checkout to notify you on the day of our arrival.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">You can list out the ZIP/postal codes you service and/or consider embedding a map here so customers can easily see if they are within your local delivery range.</em></strong></p>\n<h3 data-mce-fragment=\"1\">In-store pickup</h3>\n<p data-mce-fragment=\"1\">You can skip the shipping fees with free local pickup at [list the locations where in-store pickup is available]. After placing your order and selecting local pickup at checkout, your order will be prepared and ready for pick up within X to X business days. We will send you an email when your order is ready along with instructions.&nbsp;</p>\n<p data-mce-fragment=\"1\">Our in-store pickup hours are [store hours] on [available days of the week]. Please have your order confirmation email with you when you come.</p>\n<h3 data-mce-fragment=\"1\">International Shipping</h3>\n<p data-mce-fragment=\"1\">We offer international shipping to the following countries: [list of countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If relevant you can also include countries you don’t ship to:</em></strong>&nbsp;At this time, we do not ship to [list of countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you’re using calculated shipping rates:&nbsp;</em></strong>Shipping charges for your order will be calculated and displayed at checkout.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you offer multiple international shipping options, you can list them in a table as well. You can include broader delivery timelines (e.g. 8 to 20 days) for international shipping since expectations can vary greatly depending on the destination.</em></strong></p>\n<table border=\"solid black\" data-mce-fragment=\"1\">\n<tbody data-mce-fragment=\"1\">\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Shipping option</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Estimated delivery time</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Price</strong></p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 1</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 2</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 3</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p data-mce-fragment=\"1\">&nbsp;</p>\n<p data-mce-fragment=\"1\">Your order may be subject to import duties and taxes (including VAT), which are incurred once a shipment reaches your destination country. [Your Company] is not responsible for these charges if they are applied and are your responsibility as the customer.</p>\n<h3 data-mce-fragment=\"1\">How do I check the status of my order?</h3>\n<p data-mce-fragment=\"1\">When your order has shipped, you will receive an email notification from us which will include a tracking number you can use to check its status. Please allow 48 hours for the tracking information to become available.&nbsp;</p>\n<p data-mce-fragment=\"1\">If you haven’t received your order within X days of receiving your shipping confirmation email, please contact us at support@email.com with your name and order number, and we will look into it for you.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Include a link for customers to track their order if available.</em></strong></p>\n<h3 data-mce-fragment=\"1\">Shipping to P.O. boxes</h3>\n<p data-mce-fragment=\"1\"><em data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Some carriers have limitations around shipping to P.O. Boxes. If one of your carriers falls into this group, you should look up their policy and communicate it to your customers here.&nbsp;</strong></em></p>\n<h3 data-mce-fragment=\"1\">Refunds, returns, and exchanges</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Summarize your return policy here and link out to your full<span data-mce-fragment=\"1\">&nbsp;</span></em></strong><a href=\"https://www.shopify.com/blog/return-policy\" data-mce-fragment=\"1\" data-mce-href=\"https://www.shopify.com/blog/return-policy\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">return policy page</em></strong></a><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">&nbsp;</span>if you have one.&nbsp;</em></strong></p>\n<p data-mce-fragment=\"1\">We accept returns up to X days after delivery, if the item is unused and in its original condition, and we will refund the full order amount minus the shipping costs for the return.&nbsp;</p>\n<p data-mce-fragment=\"1\">In the event that your order arrives damaged in any way, please email us as soon as possible at support@email.com with your order number and a photo of the item’s condition. We address these on a case-by-case basis but will try our best to work towards a satisfactory solution.</p>\n<p data-mce-fragment=\"1\">If you have any further questions, please don't hesitate to contact us at support@email.com.</p>",
+        "handle": "shipping-policy"
+      },
+      "refundPolicy": {
+        "body": "<p>We have a 30-day return policy, which means you have 30 days after receiving your item to request a return.</p>\n<p>To be eligible for a return, your item must be in the same condition that you received it, unworn or unused, with tags, and in its original packaging. You’ll also need the receipt or proof of purchase.</p>\n<p>To start a return, you can contact us at <a href=\"mailto:chan.pai@hydrogen.shop\">chan.pai@hydrogen.shop</a>. If your return is accepted, we’ll send you a return shipping label, as well as instructions on how and where to send your package. Items sent back to us without first requesting a return will not be accepted.</p>\n<p>You can always contact us for any return question at <a href=\"mailto:chan.pai@hydrogen.shop\">chan.pai@hydrogen.shop</a>.</p>\n<h4>Damages and issues</h4>\n<p>Please inspect your order upon reception and contact us immediately if the item is defective, damaged or if you receive the wrong item, so that we can evaluate the issue and make it right.</p>\n<h4>Exceptions / non-returnable items</h4>\n<p>Certain types of items cannot be returned, like perishable goods (such as food, flowers, or plants), custom products (such as special orders or personalized items), and personal care goods (such as beauty products). We also do not accept returns for hazardous materials, flammable liquids, or gases. Please get in touch if you have questions or concerns about your specific item.</p>\n<p>Unfortunately, we cannot accept returns on sale items or gift cards.</p>\n<h4>Exchanges</h4>\n<p>The fastest way to ensure you get what you want is to return the item you have, and once the return is accepted, make a separate purchase for the new item.</p>\n<h4>Refunds</h4>\n<p>We will notify you once we’ve received and inspected your return, and let you know if the refund was approved or not. If approved, you’ll be automatically refunded on your original payment method. Please remember it can take some time for your bank or credit card company to process and post the refund too.</p>",
+        "handle": "refund-policy"
+      }
+    },
+    "recommended": "__deferred_promise:recommended"
+  },
+  {
+    "product": {
+      "id": "gid://shopify/Product/7005119283256",
+      "title": "The Liquid Snowboard",
+      "vendor": "Snowdevil",
+      "handle": "the-liquid",
+      "descriptionHtml": "<meta charset=\"utf-8\">\n<p data-mce-fragment=\"1\">This pre-stressed Kevlar® board, featuring our exclusive isomorphic hardwood macro-substrate, promises incredible maneuverability perfect for beginner boarders.<br></p>\n<p data-mce-fragment=\"1\">Offering nimbleness and rigidity, this board’s flat camber and gentle taper gets you exceptional float and edge control over any terrain. It’s been vetted by our one-of-a-kind pro riders so you can stomp every run without chatter.</p>\n<ul data-mce-fragment=\"1\"></ul>",
+      "options": [
+        { "name": "Size", "values": ["154cm", "158cm", "160cm"] },
+        { "name": "Color", "values": ["Syntax"] }
+      ],
+      "selectedVariant": null,
+      "media": {
+        "nodes": [
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg?v=1655933143"
+            },
+            "id": "gid://shopify/MediaImage/29262375583800",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg?v=1655933143",
+              "width": 3908,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP1_5500fbaf-f17c-4075-82ac-afad775fd4ea.jpg?v=1655933143"
+            },
+            "id": "gid://shopify/MediaImage/29262375616568",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP1_5500fbaf-f17c-4075-82ac-afad775fd4ea.jpg?v=1655933143",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP2_9ad20d48-501a-480a-9cd1-8201c0fdc012.jpg?v=1655933143"
+            },
+            "id": "gid://shopify/MediaImage/29262375649336",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP2_9ad20d48-501a-480a-9cd1-8201c0fdc012.jpg?v=1655933143",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP3_f1072c73-6dab-41f6-a1d4-60b2524ced40.jpg?v=1655933143"
+            },
+            "id": "gid://shopify/MediaImage/29262375682104",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP3_f1072c73-6dab-41f6-a1d4-60b2524ced40.jpg?v=1655933143",
+              "width": 3908,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP4_4f1620df-d6dc-46ed-9148-cab959fe34c4.jpg?v=1655933144"
+            },
+            "id": "gid://shopify/MediaImage/29262375714872",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP4_4f1620df-d6dc-46ed-9148-cab959fe34c4.jpg?v=1655933144",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP5_2603f15f-dbfb-4c28-b799-809fb8a3d54d.jpg?v=1655933148"
+            },
+            "id": "gid://shopify/MediaImage/29262375747640",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP5_2603f15f-dbfb-4c28-b799-809fb8a3d54d.jpg?v=1655933148",
+              "width": 3097,
+              "height": 3908
+            }
+          }
+        ]
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/41007342321720",
+            "availableForSale": true,
+            "selectedOptions": [
+              { "name": "Size", "value": "154cm" },
+              { "name": "Color", "value": "Syntax" }
+            ],
+            "image": {
+              "id": "gid://shopify/ProductImage/36705303724088",
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg?v=1655933143",
+              "altText": null,
+              "width": 3908,
+              "height": 3908
+            },
+            "priceV2": { "amount": "749.95", "currencyCode": "USD" },
+            "compareAtPriceV2": null,
+            "sku": null,
+            "title": "154cm / Syntax",
+            "unitPrice": null
+          }
+        ]
+      },
+      "seo": { "description": null, "title": null }
+    },
+    "shop": {
+      "name": "Hydrogen",
+      "shippingPolicy": {
+        "body": "<p>Free carbon-neutral shipping, anywhere around the world, on all orders.</p>\n<h3 data-mce-fragment=\"1\">Shipping policy</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">It's important to start by clarifying to customers that your order processing times are separate from the shipping times they see at checkout.&nbsp;</em></strong></p>\n<p data-mce-fragment=\"1\">All orders are processed within X to X business days (excluding weekends and holidays) after receiving your order confirmation email. You will receive another notification when your order has shipped.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Include any other pertinent information towards the beginning, such as potential delays due to a high volume of orders or postal service problems that are outside of your control.</em></strong></p>\n<h3 data-mce-fragment=\"1\">Domestic Shipping Rates and Estimates</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">For&nbsp;calculated shipping rates:&nbsp;</em></strong>Shipping charges for your order will be calculated and displayed at checkout.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">For&nbsp;simple flat rate shipping:</em></strong><em data-mce-fragment=\"1\">&nbsp;</em>We offer $X flat rate shipping to [list countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">You can also&nbsp;emphasize&nbsp;any free shipping thresholds you offer (e.g. free shipping for orders over $75).</em></strong><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">&nbsp;For multiple shipping options</em></strong><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">, you can list carrier options, prices, and delivery times in a table.</em></strong></p>\n<table border=\"solid black\" data-mce-fragment=\"1\">\n<tbody data-mce-fragment=\"1\">\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Shipping option</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Estimated delivery time</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Price</strong></p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 1</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 2</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 3</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n</tbody>\n</table>\n<h4 data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></h4>\n<h3 data-mce-fragment=\"1\">Local delivery</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you offer local delivery or in-store pickup to customers in your area, you can dedicate a section of your shipping policy page to explain the process or create a separate shipping page specifically for local customers.&nbsp;</em></strong><em data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></em></p>\n<p data-mce-fragment=\"1\">Free local delivery is available for orders over $X within [area of coverage]. For orders under $X, we charge $X for local delivery.</p>\n<p data-mce-fragment=\"1\">Deliveries are made from [delivery hours] on [available days]. We will contact you via text message with the phone number you provided at checkout to notify you on the day of our arrival.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">You can list out the ZIP/postal codes you service and/or consider embedding a map here so customers can easily see if they are within your local delivery range.</em></strong></p>\n<h3 data-mce-fragment=\"1\">In-store pickup</h3>\n<p data-mce-fragment=\"1\">You can skip the shipping fees with free local pickup at [list the locations where in-store pickup is available]. After placing your order and selecting local pickup at checkout, your order will be prepared and ready for pick up within X to X business days. We will send you an email when your order is ready along with instructions.&nbsp;</p>\n<p data-mce-fragment=\"1\">Our in-store pickup hours are [store hours] on [available days of the week]. Please have your order confirmation email with you when you come.</p>\n<h3 data-mce-fragment=\"1\">International Shipping</h3>\n<p data-mce-fragment=\"1\">We offer international shipping to the following countries: [list of countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If relevant you can also include countries you don’t ship to:</em></strong>&nbsp;At this time, we do not ship to [list of countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you’re using calculated shipping rates:&nbsp;</em></strong>Shipping charges for your order will be calculated and displayed at checkout.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you offer multiple international shipping options, you can list them in a table as well. You can include broader delivery timelines (e.g. 8 to 20 days) for international shipping since expectations can vary greatly depending on the destination.</em></strong></p>\n<table border=\"solid black\" data-mce-fragment=\"1\">\n<tbody data-mce-fragment=\"1\">\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Shipping option</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Estimated delivery time</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Price</strong></p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 1</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 2</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 3</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p data-mce-fragment=\"1\">&nbsp;</p>\n<p data-mce-fragment=\"1\">Your order may be subject to import duties and taxes (including VAT), which are incurred once a shipment reaches your destination country. [Your Company] is not responsible for these charges if they are applied and are your responsibility as the customer.</p>\n<h3 data-mce-fragment=\"1\">How do I check the status of my order?</h3>\n<p data-mce-fragment=\"1\">When your order has shipped, you will receive an email notification from us which will include a tracking number you can use to check its status. Please allow 48 hours for the tracking information to become available.&nbsp;</p>\n<p data-mce-fragment=\"1\">If you haven’t received your order within X days of receiving your shipping confirmation email, please contact us at support@email.com with your name and order number, and we will look into it for you.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Include a link for customers to track their order if available.</em></strong></p>\n<h3 data-mce-fragment=\"1\">Shipping to P.O. boxes</h3>\n<p data-mce-fragment=\"1\"><em data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Some carriers have limitations around shipping to P.O. Boxes. If one of your carriers falls into this group, you should look up their policy and communicate it to your customers here.&nbsp;</strong></em></p>\n<h3 data-mce-fragment=\"1\">Refunds, returns, and exchanges</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Summarize your return policy here and link out to your full<span data-mce-fragment=\"1\">&nbsp;</span></em></strong><a href=\"https://www.shopify.com/blog/return-policy\" data-mce-fragment=\"1\" data-mce-href=\"https://www.shopify.com/blog/return-policy\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">return policy page</em></strong></a><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">&nbsp;</span>if you have one.&nbsp;</em></strong></p>\n<p data-mce-fragment=\"1\">We accept returns up to X days after delivery, if the item is unused and in its original condition, and we will refund the full order amount minus the shipping costs for the return.&nbsp;</p>\n<p data-mce-fragment=\"1\">In the event that your order arrives damaged in any way, please email us as soon as possible at support@email.com with your order number and a photo of the item’s condition. We address these on a case-by-case basis but will try our best to work towards a satisfactory solution.</p>\n<p data-mce-fragment=\"1\">If you have any further questions, please don't hesitate to contact us at support@email.com.</p>",
+        "handle": "shipping-policy"
+      },
+      "refundPolicy": {
+        "body": "<p>We have a 30-day return policy, which means you have 30 days after receiving your item to request a return.</p>\n<p>To be eligible for a return, your item must be in the same condition that you received it, unworn or unused, with tags, and in its original packaging. You’ll also need the receipt or proof of purchase.</p>\n<p>To start a return, you can contact us at <a href=\"mailto:chan.pai@hydrogen.shop\">chan.pai@hydrogen.shop</a>. If your return is accepted, we’ll send you a return shipping label, as well as instructions on how and where to send your package. Items sent back to us without first requesting a return will not be accepted.</p>\n<p>You can always contact us for any return question at <a href=\"mailto:chan.pai@hydrogen.shop\">chan.pai@hydrogen.shop</a>.</p>\n<h4>Damages and issues</h4>\n<p>Please inspect your order upon reception and contact us immediately if the item is defective, damaged or if you receive the wrong item, so that we can evaluate the issue and make it right.</p>\n<h4>Exceptions / non-returnable items</h4>\n<p>Certain types of items cannot be returned, like perishable goods (such as food, flowers, or plants), custom products (such as special orders or personalized items), and personal care goods (such as beauty products). We also do not accept returns for hazardous materials, flammable liquids, or gases. Please get in touch if you have questions or concerns about your specific item.</p>\n<p>Unfortunately, we cannot accept returns on sale items or gift cards.</p>\n<h4>Exchanges</h4>\n<p>The fastest way to ensure you get what you want is to return the item you have, and once the return is accepted, make a separate purchase for the new item.</p>\n<h4>Refunds</h4>\n<p>We will notify you once we’ve received and inspected your return, and let you know if the refund was approved or not. If approved, you’ll be automatically refunded on your original payment method. Please remember it can take some time for your bank or credit card company to process and post the refund too.</p>",
+        "handle": "refund-policy"
+      }
+    },
+    "recommended": "__deferred_promise:recommended"
+  },
+  {
+    "product": {
+      "id": "gid://shopify/Product/7605361705016",
+      "title": "The Hosted Snowboard",
+      "vendor": "Snowdevil",
+      "handle": "the-hosted-snowboard",
+      "descriptionHtml": "<meta charset=\"utf-8\">\n<p data-mce-fragment=\"1\">Our heat-sealed ultra-high-molecular-weight polyethylene board, including a patent-pending zero-emission softwood sub-layers, gives you exceptional maneuverability perfect for slopestyle athletes.</p>\n<p data-mce-fragment=\"1\">With both playfulness and strength, this board’s subtle camber and gentle taper gets you remarkable finesse and acceleration when you need it. It’s been refined by our one-of-a-kind pro riders so you can enjoy the fluffies without a yardsale.<br><span data-mce-fragment=\"1\"></span></p>\n<ul data-mce-fragment=\"1\"></ul>",
+      "options": [
+        { "name": "Size", "values": ["154cm", "158cm", "160cm"] },
+        { "name": "Color", "values": ["Reactive Blue"] }
+      ],
+      "selectedVariant": null,
+      "media": {
+        "nodes": [
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_b9e0da7f-db89-4d41-83f0-7f417b02831d.jpg?v=1655938557"
+            },
+            "id": "gid://shopify/MediaImage/29262382202936",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_b9e0da7f-db89-4d41-83f0-7f417b02831d.jpg?v=1655938557",
+              "width": 3908,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP1_dc20b2df-321b-47d8-aa02-cdb814ff7d39.jpg?v=1655938556"
+            },
+            "id": "gid://shopify/MediaImage/29262382235704",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP1_dc20b2df-321b-47d8-aa02-cdb814ff7d39.jpg?v=1655938556",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP2_85b2733c-4300-47dc-99a4-9f5b9e6997f8.jpg?v=1655938556"
+            },
+            "id": "gid://shopify/MediaImage/29262382268472",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP2_85b2733c-4300-47dc-99a4-9f5b9e6997f8.jpg?v=1655938556",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP3_8a6f258b-19ac-4eeb-99ff-0c9313e1af71.jpg?v=1655938556"
+            },
+            "id": "gid://shopify/MediaImage/29262382301240",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP3_8a6f258b-19ac-4eeb-99ff-0c9313e1af71.jpg?v=1655938556",
+              "width": 3908,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP4_54788954-3eec-43ee-8f4d-9b564aaa6175.jpg?v=1655938556"
+            },
+            "id": "gid://shopify/MediaImage/29262382334008",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP4_54788954-3eec-43ee-8f4d-9b564aaa6175.jpg?v=1655938556",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP5_de69e583-d0e7-4d9f-b82f-151e8c2a9e5c.jpg?v=1655938557"
+            },
+            "id": "gid://shopify/MediaImage/29262382366776",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP5_de69e583-d0e7-4d9f-b82f-151e8c2a9e5c.jpg?v=1655938557",
+              "width": 3097,
+              "height": 3908
+            }
+          }
+        ]
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/42562781741112",
+            "availableForSale": true,
+            "selectedOptions": [
+              { "name": "Size", "value": "154cm" },
+              { "name": "Color", "value": "Reactive Blue" }
+            ],
+            "image": {
+              "id": "gid://shopify/ProductImage/36705309720632",
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_b9e0da7f-db89-4d41-83f0-7f417b02831d.jpg?v=1655938557",
+              "altText": null,
+              "width": 3908,
+              "height": 3908
+            },
+            "priceV2": { "amount": "2629.95", "currencyCode": "USD" },
+            "compareAtPriceV2": { "amount": "3000.0", "currencyCode": "USD" },
+            "sku": null,
+            "title": "154cm / Reactive Blue",
+            "unitPrice": null
+          }
+        ]
+      },
+      "seo": { "description": null, "title": null }
+    },
+    "shop": {
+      "name": "Hydrogen",
+      "shippingPolicy": {
+        "body": "<p>Free carbon-neutral shipping, anywhere around the world, on all orders.</p>\n<h3 data-mce-fragment=\"1\">Shipping policy</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">It's important to start by clarifying to customers that your order processing times are separate from the shipping times they see at checkout.&nbsp;</em></strong></p>\n<p data-mce-fragment=\"1\">All orders are processed within X to X business days (excluding weekends and holidays) after receiving your order confirmation email. You will receive another notification when your order has shipped.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Include any other pertinent information towards the beginning, such as potential delays due to a high volume of orders or postal service problems that are outside of your control.</em></strong></p>\n<h3 data-mce-fragment=\"1\">Domestic Shipping Rates and Estimates</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">For&nbsp;calculated shipping rates:&nbsp;</em></strong>Shipping charges for your order will be calculated and displayed at checkout.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">For&nbsp;simple flat rate shipping:</em></strong><em data-mce-fragment=\"1\">&nbsp;</em>We offer $X flat rate shipping to [list countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">You can also&nbsp;emphasize&nbsp;any free shipping thresholds you offer (e.g. free shipping for orders over $75).</em></strong><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">&nbsp;For multiple shipping options</em></strong><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">, you can list carrier options, prices, and delivery times in a table.</em></strong></p>\n<table border=\"solid black\" data-mce-fragment=\"1\">\n<tbody data-mce-fragment=\"1\">\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Shipping option</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Estimated delivery time</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Price</strong></p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 1</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 2</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 3</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n</tbody>\n</table>\n<h4 data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></h4>\n<h3 data-mce-fragment=\"1\">Local delivery</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you offer local delivery or in-store pickup to customers in your area, you can dedicate a section of your shipping policy page to explain the process or create a separate shipping page specifically for local customers.&nbsp;</em></strong><em data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></em></p>\n<p data-mce-fragment=\"1\">Free local delivery is available for orders over $X within [area of coverage]. For orders under $X, we charge $X for local delivery.</p>\n<p data-mce-fragment=\"1\">Deliveries are made from [delivery hours] on [available days]. We will contact you via text message with the phone number you provided at checkout to notify you on the day of our arrival.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">You can list out the ZIP/postal codes you service and/or consider embedding a map here so customers can easily see if they are within your local delivery range.</em></strong></p>\n<h3 data-mce-fragment=\"1\">In-store pickup</h3>\n<p data-mce-fragment=\"1\">You can skip the shipping fees with free local pickup at [list the locations where in-store pickup is available]. After placing your order and selecting local pickup at checkout, your order will be prepared and ready for pick up within X to X business days. We will send you an email when your order is ready along with instructions.&nbsp;</p>\n<p data-mce-fragment=\"1\">Our in-store pickup hours are [store hours] on [available days of the week]. Please have your order confirmation email with you when you come.</p>\n<h3 data-mce-fragment=\"1\">International Shipping</h3>\n<p data-mce-fragment=\"1\">We offer international shipping to the following countries: [list of countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If relevant you can also include countries you don’t ship to:</em></strong>&nbsp;At this time, we do not ship to [list of countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you’re using calculated shipping rates:&nbsp;</em></strong>Shipping charges for your order will be calculated and displayed at checkout.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you offer multiple international shipping options, you can list them in a table as well. You can include broader delivery timelines (e.g. 8 to 20 days) for international shipping since expectations can vary greatly depending on the destination.</em></strong></p>\n<table border=\"solid black\" data-mce-fragment=\"1\">\n<tbody data-mce-fragment=\"1\">\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Shipping option</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Estimated delivery time</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Price</strong></p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 1</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 2</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 3</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p data-mce-fragment=\"1\">&nbsp;</p>\n<p data-mce-fragment=\"1\">Your order may be subject to import duties and taxes (including VAT), which are incurred once a shipment reaches your destination country. [Your Company] is not responsible for these charges if they are applied and are your responsibility as the customer.</p>\n<h3 data-mce-fragment=\"1\">How do I check the status of my order?</h3>\n<p data-mce-fragment=\"1\">When your order has shipped, you will receive an email notification from us which will include a tracking number you can use to check its status. Please allow 48 hours for the tracking information to become available.&nbsp;</p>\n<p data-mce-fragment=\"1\">If you haven’t received your order within X days of receiving your shipping confirmation email, please contact us at support@email.com with your name and order number, and we will look into it for you.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Include a link for customers to track their order if available.</em></strong></p>\n<h3 data-mce-fragment=\"1\">Shipping to P.O. boxes</h3>\n<p data-mce-fragment=\"1\"><em data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Some carriers have limitations around shipping to P.O. Boxes. If one of your carriers falls into this group, you should look up their policy and communicate it to your customers here.&nbsp;</strong></em></p>\n<h3 data-mce-fragment=\"1\">Refunds, returns, and exchanges</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Summarize your return policy here and link out to your full<span data-mce-fragment=\"1\">&nbsp;</span></em></strong><a href=\"https://www.shopify.com/blog/return-policy\" data-mce-fragment=\"1\" data-mce-href=\"https://www.shopify.com/blog/return-policy\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">return policy page</em></strong></a><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">&nbsp;</span>if you have one.&nbsp;</em></strong></p>\n<p data-mce-fragment=\"1\">We accept returns up to X days after delivery, if the item is unused and in its original condition, and we will refund the full order amount minus the shipping costs for the return.&nbsp;</p>\n<p data-mce-fragment=\"1\">In the event that your order arrives damaged in any way, please email us as soon as possible at support@email.com with your order number and a photo of the item’s condition. We address these on a case-by-case basis but will try our best to work towards a satisfactory solution.</p>\n<p data-mce-fragment=\"1\">If you have any further questions, please don't hesitate to contact us at support@email.com.</p>",
+        "handle": "shipping-policy"
+      },
+      "refundPolicy": {
+        "body": "<p>We have a 30-day return policy, which means you have 30 days after receiving your item to request a return.</p>\n<p>To be eligible for a return, your item must be in the same condition that you received it, unworn or unused, with tags, and in its original packaging. You’ll also need the receipt or proof of purchase.</p>\n<p>To start a return, you can contact us at <a href=\"mailto:chan.pai@hydrogen.shop\">chan.pai@hydrogen.shop</a>. If your return is accepted, we’ll send you a return shipping label, as well as instructions on how and where to send your package. Items sent back to us without first requesting a return will not be accepted.</p>\n<p>You can always contact us for any return question at <a href=\"mailto:chan.pai@hydrogen.shop\">chan.pai@hydrogen.shop</a>.</p>\n<h4>Damages and issues</h4>\n<p>Please inspect your order upon reception and contact us immediately if the item is defective, damaged or if you receive the wrong item, so that we can evaluate the issue and make it right.</p>\n<h4>Exceptions / non-returnable items</h4>\n<p>Certain types of items cannot be returned, like perishable goods (such as food, flowers, or plants), custom products (such as special orders or personalized items), and personal care goods (such as beauty products). We also do not accept returns for hazardous materials, flammable liquids, or gases. Please get in touch if you have questions or concerns about your specific item.</p>\n<p>Unfortunately, we cannot accept returns on sale items or gift cards.</p>\n<h4>Exchanges</h4>\n<p>The fastest way to ensure you get what you want is to return the item you have, and once the return is accepted, make a separate purchase for the new item.</p>\n<h4>Refunds</h4>\n<p>We will notify you once we’ve received and inspected your return, and let you know if the refund was approved or not. If approved, you’ll be automatically refunded on your original payment method. Please remember it can take some time for your bank or credit card company to process and post the refund too.</p>",
+        "handle": "refund-policy"
+      }
+    },
+    "recommended": "__deferred_promise:recommended"
+  },
+  {
+    "product": {
+      "id": "gid://shopify/Product/7605205041208",
+      "title": "The \"Now in 3D\" Snowboard",
+      "vendor": "Snowdevil",
+      "handle": "the-now-in-3d-snowboard",
+      "descriptionHtml": "<meta charset=\"utf-8\">\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\"></span>This heat-sealed Kevlar® board, including our exclusive isomorphic titanium subtalar stabilizer, gives you unstoppable performance for adventurous riders.</p>\n<p data-mce-fragment=\"1\">Offering nimbleness and rigidity, this board’s shallow camber and gentle taper delivers remarkable virtuosity and force under any conditions. This board has been honed by our state-of-the-art powder simulator so you can shred the slopes while staying crunchy.<br></p>\n<ul data-mce-fragment=\"1\"></ul>",
+      "options": [
+        { "name": "Size", "values": ["154cm", "158cm", "160cm"] },
+        { "name": "Color", "values": ["Reactive Blue"] }
+      ],
+      "selectedVariant": null,
+      "media": {
+        "nodes": [
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_5127218a-8f6c-498f-b489-09242c0fab0a.jpg?v=1655935475"
+            },
+            "id": "gid://shopify/MediaImage/29262377844792",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_5127218a-8f6c-498f-b489-09242c0fab0a.jpg?v=1655935475",
+              "width": 3908,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP1_b2ed6bd3-8a9d-4ca7-84c5-c3de3d543a2b.jpg?v=1655935476"
+            },
+            "id": "gid://shopify/MediaImage/29262377877560",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP1_b2ed6bd3-8a9d-4ca7-84c5-c3de3d543a2b.jpg?v=1655935476",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP2_b99e40e9-ba9b-4225-9476-5e4c76bd0b98.jpg?v=1655935475"
+            },
+            "id": "gid://shopify/MediaImage/29262377910328",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP2_b99e40e9-ba9b-4225-9476-5e4c76bd0b98.jpg?v=1655935475",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP3_337fd85e-4b71-43b9-9daa-b6363dd22aab.jpg?v=1655935476"
+            },
+            "id": "gid://shopify/MediaImage/29262377943096",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP3_337fd85e-4b71-43b9-9daa-b6363dd22aab.jpg?v=1655935476",
+              "width": 3908,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP4_82795955-da39-47d8-bf15-96cdd4ac548d.jpg?v=1655935476"
+            },
+            "id": "gid://shopify/MediaImage/29262377975864",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP4_82795955-da39-47d8-bf15-96cdd4ac548d.jpg?v=1655935476",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP5_5cf2f1af-62e6-47b8-b2d0-e5cfcf97f1b9.jpg?v=1655935476"
+            },
+            "id": "gid://shopify/MediaImage/29262378008632",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP5_5cf2f1af-62e6-47b8-b2d0-e5cfcf97f1b9.jpg?v=1655935476",
+              "width": 3097,
+              "height": 3908
+            }
+          }
+        ]
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/42562624815160",
+            "availableForSale": true,
+            "selectedOptions": [
+              { "name": "Size", "value": "154cm" },
+              { "name": "Color", "value": "Reactive Blue" }
+            ],
+            "image": {
+              "id": "gid://shopify/ProductImage/36705305657400",
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_5127218a-8f6c-498f-b489-09242c0fab0a.jpg?v=1655935475",
+              "altText": null,
+              "width": 3908,
+              "height": 3908
+            },
+            "priceV2": { "amount": "2629.95", "currencyCode": "USD" },
+            "compareAtPriceV2": { "amount": "3000.0", "currencyCode": "USD" },
+            "sku": "",
+            "title": "154cm / Reactive Blue",
+            "unitPrice": null
+          }
+        ]
+      },
+      "seo": { "description": null, "title": null }
+    },
+    "shop": {
+      "name": "Hydrogen",
+      "shippingPolicy": {
+        "body": "<p>Free carbon-neutral shipping, anywhere around the world, on all orders.</p>\n<h3 data-mce-fragment=\"1\">Shipping policy</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">It's important to start by clarifying to customers that your order processing times are separate from the shipping times they see at checkout.&nbsp;</em></strong></p>\n<p data-mce-fragment=\"1\">All orders are processed within X to X business days (excluding weekends and holidays) after receiving your order confirmation email. You will receive another notification when your order has shipped.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Include any other pertinent information towards the beginning, such as potential delays due to a high volume of orders or postal service problems that are outside of your control.</em></strong></p>\n<h3 data-mce-fragment=\"1\">Domestic Shipping Rates and Estimates</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">For&nbsp;calculated shipping rates:&nbsp;</em></strong>Shipping charges for your order will be calculated and displayed at checkout.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">For&nbsp;simple flat rate shipping:</em></strong><em data-mce-fragment=\"1\">&nbsp;</em>We offer $X flat rate shipping to [list countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">You can also&nbsp;emphasize&nbsp;any free shipping thresholds you offer (e.g. free shipping for orders over $75).</em></strong><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">&nbsp;For multiple shipping options</em></strong><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">, you can list carrier options, prices, and delivery times in a table.</em></strong></p>\n<table border=\"solid black\" data-mce-fragment=\"1\">\n<tbody data-mce-fragment=\"1\">\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Shipping option</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Estimated delivery time</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Price</strong></p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 1</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 2</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 3</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n</tbody>\n</table>\n<h4 data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></h4>\n<h3 data-mce-fragment=\"1\">Local delivery</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you offer local delivery or in-store pickup to customers in your area, you can dedicate a section of your shipping policy page to explain the process or create a separate shipping page specifically for local customers.&nbsp;</em></strong><em data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></em></p>\n<p data-mce-fragment=\"1\">Free local delivery is available for orders over $X within [area of coverage]. For orders under $X, we charge $X for local delivery.</p>\n<p data-mce-fragment=\"1\">Deliveries are made from [delivery hours] on [available days]. We will contact you via text message with the phone number you provided at checkout to notify you on the day of our arrival.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">You can list out the ZIP/postal codes you service and/or consider embedding a map here so customers can easily see if they are within your local delivery range.</em></strong></p>\n<h3 data-mce-fragment=\"1\">In-store pickup</h3>\n<p data-mce-fragment=\"1\">You can skip the shipping fees with free local pickup at [list the locations where in-store pickup is available]. After placing your order and selecting local pickup at checkout, your order will be prepared and ready for pick up within X to X business days. We will send you an email when your order is ready along with instructions.&nbsp;</p>\n<p data-mce-fragment=\"1\">Our in-store pickup hours are [store hours] on [available days of the week]. Please have your order confirmation email with you when you come.</p>\n<h3 data-mce-fragment=\"1\">International Shipping</h3>\n<p data-mce-fragment=\"1\">We offer international shipping to the following countries: [list of countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If relevant you can also include countries you don’t ship to:</em></strong>&nbsp;At this time, we do not ship to [list of countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you’re using calculated shipping rates:&nbsp;</em></strong>Shipping charges for your order will be calculated and displayed at checkout.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you offer multiple international shipping options, you can list them in a table as well. You can include broader delivery timelines (e.g. 8 to 20 days) for international shipping since expectations can vary greatly depending on the destination.</em></strong></p>\n<table border=\"solid black\" data-mce-fragment=\"1\">\n<tbody data-mce-fragment=\"1\">\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Shipping option</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Estimated delivery time</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Price</strong></p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 1</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 2</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 3</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p data-mce-fragment=\"1\">&nbsp;</p>\n<p data-mce-fragment=\"1\">Your order may be subject to import duties and taxes (including VAT), which are incurred once a shipment reaches your destination country. [Your Company] is not responsible for these charges if they are applied and are your responsibility as the customer.</p>\n<h3 data-mce-fragment=\"1\">How do I check the status of my order?</h3>\n<p data-mce-fragment=\"1\">When your order has shipped, you will receive an email notification from us which will include a tracking number you can use to check its status. Please allow 48 hours for the tracking information to become available.&nbsp;</p>\n<p data-mce-fragment=\"1\">If you haven’t received your order within X days of receiving your shipping confirmation email, please contact us at support@email.com with your name and order number, and we will look into it for you.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Include a link for customers to track their order if available.</em></strong></p>\n<h3 data-mce-fragment=\"1\">Shipping to P.O. boxes</h3>\n<p data-mce-fragment=\"1\"><em data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Some carriers have limitations around shipping to P.O. Boxes. If one of your carriers falls into this group, you should look up their policy and communicate it to your customers here.&nbsp;</strong></em></p>\n<h3 data-mce-fragment=\"1\">Refunds, returns, and exchanges</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Summarize your return policy here and link out to your full<span data-mce-fragment=\"1\">&nbsp;</span></em></strong><a href=\"https://www.shopify.com/blog/return-policy\" data-mce-fragment=\"1\" data-mce-href=\"https://www.shopify.com/blog/return-policy\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">return policy page</em></strong></a><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">&nbsp;</span>if you have one.&nbsp;</em></strong></p>\n<p data-mce-fragment=\"1\">We accept returns up to X days after delivery, if the item is unused and in its original condition, and we will refund the full order amount minus the shipping costs for the return.&nbsp;</p>\n<p data-mce-fragment=\"1\">In the event that your order arrives damaged in any way, please email us as soon as possible at support@email.com with your order number and a photo of the item’s condition. We address these on a case-by-case basis but will try our best to work towards a satisfactory solution.</p>\n<p data-mce-fragment=\"1\">If you have any further questions, please don't hesitate to contact us at support@email.com.</p>",
+        "handle": "shipping-policy"
+      },
+      "refundPolicy": {
+        "body": "<p>We have a 30-day return policy, which means you have 30 days after receiving your item to request a return.</p>\n<p>To be eligible for a return, your item must be in the same condition that you received it, unworn or unused, with tags, and in its original packaging. You’ll also need the receipt or proof of purchase.</p>\n<p>To start a return, you can contact us at <a href=\"mailto:chan.pai@hydrogen.shop\">chan.pai@hydrogen.shop</a>. If your return is accepted, we’ll send you a return shipping label, as well as instructions on how and where to send your package. Items sent back to us without first requesting a return will not be accepted.</p>\n<p>You can always contact us for any return question at <a href=\"mailto:chan.pai@hydrogen.shop\">chan.pai@hydrogen.shop</a>.</p>\n<h4>Damages and issues</h4>\n<p>Please inspect your order upon reception and contact us immediately if the item is defective, damaged or if you receive the wrong item, so that we can evaluate the issue and make it right.</p>\n<h4>Exceptions / non-returnable items</h4>\n<p>Certain types of items cannot be returned, like perishable goods (such as food, flowers, or plants), custom products (such as special orders or personalized items), and personal care goods (such as beauty products). We also do not accept returns for hazardous materials, flammable liquids, or gases. Please get in touch if you have questions or concerns about your specific item.</p>\n<p>Unfortunately, we cannot accept returns on sale items or gift cards.</p>\n<h4>Exchanges</h4>\n<p>The fastest way to ensure you get what you want is to return the item you have, and once the return is accepted, make a separate purchase for the new item.</p>\n<h4>Refunds</h4>\n<p>We will notify you once we’ve received and inspected your return, and let you know if the refund was approved or not. If approved, you’ll be automatically refunded on your original payment method. Please remember it can take some time for your bank or credit card company to process and post the refund too.</p>",
+        "handle": "refund-policy"
+      }
+    },
+    "recommended": "__deferred_promise:recommended"
+  },
+  {
+    "product": {
+      "id": "gid://shopify/Product/7005113385016",
+      "title": "The Oxygen Snowboard",
+      "vendor": "Snowdevil",
+      "handle": "the-oxygen",
+      "descriptionHtml": "<meta charset=\"utf-8\">\n<p data-mce-fragment=\"1\">This high-tensile ultra-high-molecular-weight polyethylene snowboard, including our patented alkaline synthetic-diamond sub-layers, delivers satisfying performance loved by big-mountain riders.<br></p>\n<p data-mce-fragment=\"1\">Perfectly balanced between flexibility and durability, this board’s off-center camber and aggressive taper delivers unmatched finesse and force under any conditions. This board has been tested by our state-of-the-art mountain laboratory so you can hit the moneybooter with confidence.</p>\n<ul data-mce-fragment=\"1\"></ul>",
+      "options": [{ "name": "Size", "values": ["154cm", "158cm", "160cm"] }],
+      "selectedVariant": null,
+      "media": {
+        "nodes": [
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_d624f226-0a89-4fe1-b333-0d1548b43c06.jpg?v=1655932508"
+            },
+            "id": "gid://shopify/MediaImage/29262374699064",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_d624f226-0a89-4fe1-b333-0d1548b43c06.jpg?v=1655932508",
+              "width": 3908,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP1_2024d621-62d8-4956-856f-bef52e2a7239.jpg?v=1655932549"
+            },
+            "id": "gid://shopify/MediaImage/29262374764600",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP1_2024d621-62d8-4956-856f-bef52e2a7239.jpg?v=1655932549",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP2_63672143-8536-4c57-9127-d7ac477d0014.jpg?v=1655932549"
+            },
+            "id": "gid://shopify/MediaImage/29262374797368",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP2_63672143-8536-4c57-9127-d7ac477d0014.jpg?v=1655932549",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP3_2470d966-aa6e-4c34-906d-8166e34d221d.jpg?v=1655932549"
+            },
+            "id": "gid://shopify/MediaImage/29262374830136",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP3_2470d966-aa6e-4c34-906d-8166e34d221d.jpg?v=1655932549",
+              "width": 3908,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP4_50f3ce35-bb19-4738-8417-08d6fb828aae.jpg?v=1655932550"
+            },
+            "id": "gid://shopify/MediaImage/29262374862904",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP4_50f3ce35-bb19-4738-8417-08d6fb828aae.jpg?v=1655932550",
+              "width": 3097,
+              "height": 3908
+            }
+          },
+          {
+            "mediaContentType": "IMAGE",
+            "alt": "",
+            "previewImage": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP5_b3d34d1a-2262-4140-bf31-0a556242bc79.jpg?v=1655932549"
+            },
+            "id": "gid://shopify/MediaImage/29262374895672",
+            "image": {
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/PDP5_b3d34d1a-2262-4140-bf31-0a556242bc79.jpg?v=1655932549",
+              "width": 3097,
+              "height": 3908
+            }
+          }
+        ]
+      },
+      "variants": {
+        "nodes": [
+          {
+            "id": "gid://shopify/ProductVariant/41007323545656",
+            "availableForSale": true,
+            "selectedOptions": [{ "name": "Size", "value": "154cm" }],
+            "image": {
+              "id": "gid://shopify/ProductImage/36705302773816",
+              "url": "https://cdn.shopify.com/s/files/1/0551/4566/0472/products/Main_d624f226-0a89-4fe1-b333-0d1548b43c06.jpg?v=1655932508",
+              "altText": null,
+              "width": 3908,
+              "height": 3908
+            },
+            "priceV2": { "amount": "1025.0", "currencyCode": "USD" },
+            "compareAtPriceV2": null,
+            "sku": "",
+            "title": "154cm",
+            "unitPrice": null
+          }
+        ]
+      },
+      "seo": {
+        "description": "The Full Stack snowboard, ideal for technical terrain and those who dare to go where the chairlift can't take you. The Full Stack excels in the backcountry making riding out of bounds as easy as resort groomers. New for 2021, the Full Stack has Oxygen Pack inserts giving you more float on the deepest days. Care Guide Clean well after use Wax regularly Specs Weight: 5 lb Length: 4 ft Width: 1 ft Manufactured on: 8/2/2021, 3:30:00 PM Manufactured by: Shopify",
+        "title": null
+      }
+    },
+    "shop": {
+      "name": "Hydrogen",
+      "shippingPolicy": {
+        "body": "<p>Free carbon-neutral shipping, anywhere around the world, on all orders.</p>\n<h3 data-mce-fragment=\"1\">Shipping policy</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">It's important to start by clarifying to customers that your order processing times are separate from the shipping times they see at checkout.&nbsp;</em></strong></p>\n<p data-mce-fragment=\"1\">All orders are processed within X to X business days (excluding weekends and holidays) after receiving your order confirmation email. You will receive another notification when your order has shipped.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Include any other pertinent information towards the beginning, such as potential delays due to a high volume of orders or postal service problems that are outside of your control.</em></strong></p>\n<h3 data-mce-fragment=\"1\">Domestic Shipping Rates and Estimates</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">For&nbsp;calculated shipping rates:&nbsp;</em></strong>Shipping charges for your order will be calculated and displayed at checkout.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">For&nbsp;simple flat rate shipping:</em></strong><em data-mce-fragment=\"1\">&nbsp;</em>We offer $X flat rate shipping to [list countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">You can also&nbsp;emphasize&nbsp;any free shipping thresholds you offer (e.g. free shipping for orders over $75).</em></strong><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">&nbsp;For multiple shipping options</em></strong><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">, you can list carrier options, prices, and delivery times in a table.</em></strong></p>\n<table border=\"solid black\" data-mce-fragment=\"1\">\n<tbody data-mce-fragment=\"1\">\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Shipping option</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Estimated delivery time</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Price</strong></p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 1</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 2</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 3</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n</tbody>\n</table>\n<h4 data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></h4>\n<h3 data-mce-fragment=\"1\">Local delivery</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you offer local delivery or in-store pickup to customers in your area, you can dedicate a section of your shipping policy page to explain the process or create a separate shipping page specifically for local customers.&nbsp;</em></strong><em data-mce-fragment=\"1\"><br data-mce-fragment=\"1\"></em></p>\n<p data-mce-fragment=\"1\">Free local delivery is available for orders over $X within [area of coverage]. For orders under $X, we charge $X for local delivery.</p>\n<p data-mce-fragment=\"1\">Deliveries are made from [delivery hours] on [available days]. We will contact you via text message with the phone number you provided at checkout to notify you on the day of our arrival.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">You can list out the ZIP/postal codes you service and/or consider embedding a map here so customers can easily see if they are within your local delivery range.</em></strong></p>\n<h3 data-mce-fragment=\"1\">In-store pickup</h3>\n<p data-mce-fragment=\"1\">You can skip the shipping fees with free local pickup at [list the locations where in-store pickup is available]. After placing your order and selecting local pickup at checkout, your order will be prepared and ready for pick up within X to X business days. We will send you an email when your order is ready along with instructions.&nbsp;</p>\n<p data-mce-fragment=\"1\">Our in-store pickup hours are [store hours] on [available days of the week]. Please have your order confirmation email with you when you come.</p>\n<h3 data-mce-fragment=\"1\">International Shipping</h3>\n<p data-mce-fragment=\"1\">We offer international shipping to the following countries: [list of countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If relevant you can also include countries you don’t ship to:</em></strong>&nbsp;At this time, we do not ship to [list of countries].&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you’re using calculated shipping rates:&nbsp;</em></strong>Shipping charges for your order will be calculated and displayed at checkout.&nbsp;</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">If you offer multiple international shipping options, you can list them in a table as well. You can include broader delivery timelines (e.g. 8 to 20 days) for international shipping since expectations can vary greatly depending on the destination.</em></strong></p>\n<table border=\"solid black\" data-mce-fragment=\"1\">\n<tbody data-mce-fragment=\"1\">\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Shipping option</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Estimated delivery time</strong></p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Price</strong></p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 1</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 2</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n<tr data-mce-fragment=\"1\">\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">Option 3</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">X to X business days</p>\n</td>\n<td data-mce-fragment=\"1\">\n<p data-mce-fragment=\"1\">$X</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p data-mce-fragment=\"1\">&nbsp;</p>\n<p data-mce-fragment=\"1\">Your order may be subject to import duties and taxes (including VAT), which are incurred once a shipment reaches your destination country. [Your Company] is not responsible for these charges if they are applied and are your responsibility as the customer.</p>\n<h3 data-mce-fragment=\"1\">How do I check the status of my order?</h3>\n<p data-mce-fragment=\"1\">When your order has shipped, you will receive an email notification from us which will include a tracking number you can use to check its status. Please allow 48 hours for the tracking information to become available.&nbsp;</p>\n<p data-mce-fragment=\"1\">If you haven’t received your order within X days of receiving your shipping confirmation email, please contact us at support@email.com with your name and order number, and we will look into it for you.</p>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Include a link for customers to track their order if available.</em></strong></p>\n<h3 data-mce-fragment=\"1\">Shipping to P.O. boxes</h3>\n<p data-mce-fragment=\"1\"><em data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\">Some carriers have limitations around shipping to P.O. Boxes. If one of your carriers falls into this group, you should look up their policy and communicate it to your customers here.&nbsp;</strong></em></p>\n<h3 data-mce-fragment=\"1\">Refunds, returns, and exchanges</h3>\n<p data-mce-fragment=\"1\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">Summarize your return policy here and link out to your full<span data-mce-fragment=\"1\">&nbsp;</span></em></strong><a href=\"https://www.shopify.com/blog/return-policy\" data-mce-fragment=\"1\" data-mce-href=\"https://www.shopify.com/blog/return-policy\"><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\">return policy page</em></strong></a><strong data-mce-fragment=\"1\"><em data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">&nbsp;</span>if you have one.&nbsp;</em></strong></p>\n<p data-mce-fragment=\"1\">We accept returns up to X days after delivery, if the item is unused and in its original condition, and we will refund the full order amount minus the shipping costs for the return.&nbsp;</p>\n<p data-mce-fragment=\"1\">In the event that your order arrives damaged in any way, please email us as soon as possible at support@email.com with your order number and a photo of the item’s condition. We address these on a case-by-case basis but will try our best to work towards a satisfactory solution.</p>\n<p data-mce-fragment=\"1\">If you have any further questions, please don't hesitate to contact us at support@email.com.</p>",
+        "handle": "shipping-policy"
+      },
+      "refundPolicy": {
+        "body": "<p>We have a 30-day return policy, which means you have 30 days after receiving your item to request a return.</p>\n<p>To be eligible for a return, your item must be in the same condition that you received it, unworn or unused, with tags, and in its original packaging. You’ll also need the receipt or proof of purchase.</p>\n<p>To start a return, you can contact us at <a href=\"mailto:chan.pai@hydrogen.shop\">chan.pai@hydrogen.shop</a>. If your return is accepted, we’ll send you a return shipping label, as well as instructions on how and where to send your package. Items sent back to us without first requesting a return will not be accepted.</p>\n<p>You can always contact us for any return question at <a href=\"mailto:chan.pai@hydrogen.shop\">chan.pai@hydrogen.shop</a>.</p>\n<h4>Damages and issues</h4>\n<p>Please inspect your order upon reception and contact us immediately if the item is defective, damaged or if you receive the wrong item, so that we can evaluate the issue and make it right.</p>\n<h4>Exceptions / non-returnable items</h4>\n<p>Certain types of items cannot be returned, like perishable goods (such as food, flowers, or plants), custom products (such as special orders or personalized items), and personal care goods (such as beauty products). We also do not accept returns for hazardous materials, flammable liquids, or gases. Please get in touch if you have questions or concerns about your specific item.</p>\n<p>Unfortunately, we cannot accept returns on sale items or gift cards.</p>\n<h4>Exchanges</h4>\n<p>The fastest way to ensure you get what you want is to return the item you have, and once the return is accepted, make a separate purchase for the new item.</p>\n<h4>Refunds</h4>\n<p>We will notify you once we’ve received and inspected your return, and let you know if the refund was approved or not. If approved, you’ll be automatically refunded on your original payment method. Please remember it can take some time for your bank or credit card company to process and post the refund too.</p>",
+        "handle": "refund-policy"
+      }
+    },
+    "recommended": "__deferred_promise:recommended"
   }
 ]

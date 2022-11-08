@@ -1,4 +1,5 @@
 <script lang="ts">
+import { LoaderFunctionArgs } from "@remix-run/router";
 import { computed } from "@vue/reactivity";
 import {
   Await,
@@ -6,54 +7,62 @@ import {
   Link,
   Outlet,
   useLoaderData,
-  useLocation,
   useNavigation,
 } from "remix-router-vue";
 
-async function getCartCount() {
-  let res = await fetch("/api/cart");
+export async function loader({ request }: LoaderFunctionArgs) {
+  return fetch("/api/collections", { signal: request.signal });
+}
+
+/*
+async function getCartCount(signal: AbortSignal) {
+  let res = await fetch("/api/cart", { signal });
   let cart = await res.json();
   return cart.items.reduce((sum, i) => sum + i.quantity, 0);
 }
 
-export async function loader() {
-  let res = await fetch("/api/collections");
-  let collections = await res.json();
-  let cartCount = await getCartCount();
+async function getCollections(signal: AbortSignal) {
+  let res = await fetch("/api/collections", { signal });
+  return await res.json();
+}
+
+export async function loader({ request }: LoaderFunctionArgs) {
+  let [collections, cartCount] = await Promise.all([
+    getCollections(request.signal),
+    getCartCount(request.signal),
+  ]);
   return {
     collections: collections.collections,
     cartCount,
   };
 }
+*/
 </script>
 
 <script lang="ts" setup>
 let data = useLoaderData();
-let location = useLocation();
 let navigation = useNavigation();
-
-console.log(navigation.value);
-let isNavigating = computed(
-  () =>
-    navigation.value.state !== "idle" &&
-    navigation.value.location.pathname !== location.value.pathname
-);
 </script>
 
 <template>
+  <span v-if="navigation.state !== 'idle'" class="global-spinner spin">🔄</span>
+
   <header>
     <div>
+      <!-- <span class="cart">🛍 {{ data.cartCount }}</span> -->
+
       <!-- <Suspense>
         <template #fallback>
-          <span>🔄</span>
+          <span class="cart spin">🔄</span>
         </template>
         <Await :resolve="data.cartCount" v-slot="value">
-          <span>🛍 {{ value || null }}</span>
+          <span class="cart">🛍 {{ value }}</span>
         </Await>
       </Suspense> -->
-      <span>🛍 {{ data.cartCount || null }}</span>
+
       <h1><Link to="/">Shop</Link></h1>
     </div>
+
     <nav>
       <div v-for="c in data.collections">
         <Link :to="`/collection/${c.handle}`">
@@ -62,20 +71,28 @@ let isNavigating = computed(
       </div>
     </nav>
   </header>
+
   <main>
-    <div v-if="isNavigating" class="overlay">
-      <p class="spin">🔄</p>
-    </div>
-    <div :style="{ opacity: isNavigating ? '0.5' : 1 }">
-      <Outlet />
-    </div>
+    <Outlet />
   </main>
+
   <footer>
     <p>Built with @remix-run/router and remix-router-vue &copy; 2022</p>
   </footer>
 </template>
 
 <style scoped>
+header {
+  position: relative;
+}
+
+.global-spinner {
+  font-size: 3rem;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
 h1 a {
   color: black;
   text-decoration: none;
@@ -99,24 +116,11 @@ nav > * {
   text-align: center;
 }
 
-main {
-  position: relative;
-}
-
-.overlay {
-  z-index: 100;
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+.cart {
+  font-size: 1.5rem;
 }
 
 .spin {
-  font-size: 3rem;
   animation-name: spin;
   animation-iteration-count: infinite;
   animation-duration: 1s;
@@ -126,6 +130,7 @@ footer {
   padding: 1rem;
   text-align: center;
 }
+
 @keyframes spin {
   from {
     transform: rotate(0deg);

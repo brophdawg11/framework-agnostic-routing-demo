@@ -69,6 +69,7 @@ let location = useLocation();
 <template>
   <div class="meta">
     <h2>{{ data.title }}</h2>
+
     <div class="sort">
       Price
       <Link :to="location.pathname"> ⬆️</Link>&nbsp;
@@ -78,6 +79,7 @@ let location = useLocation();
       >&nbsp;
       <Link :to="`${location.pathname}?sort=alphabetical&order=desc`">⬇️</Link>
     </div>
+
     <div class="pagination">
       <Link v-if="data.prevPageHref" :to="data.prevPageHref">⏪</Link>
       <span v-else>⏪</span>
@@ -86,6 +88,7 @@ let location = useLocation();
       <span v-else>⏩</span>
     </div>
   </div>
+
   <div class="grid">
     <div class="item" v-for="product in data.products">
       <Link :to="`/product/${product.handle}`">
