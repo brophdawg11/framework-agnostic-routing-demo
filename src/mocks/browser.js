@@ -3,7 +3,7 @@ import collections from "./data/collections.json";
 import collectionsFull from "./data/collections-full.json";
 import products from "./data/products.json";
 
-window.ALL_SLOW = true;
+window.ALL_SLOW = false;
 window.CART_SLOW = false;
 
 let sleep = (n) => new Promise((r) => setTimeout(r, n));
@@ -13,11 +13,7 @@ let sleepIfSlow = (v) =>
 let handlers = [
   rest.get("/api/collections", async (req, res, ctx) => {
     await sleepIfSlow();
-    return res(
-      ctx.status(200),
-      ctx.set("Cache-Control", "public, max-age=600"),
-      ctx.json(collections)
-    );
+    return res(ctx.status(200), ctx.json(collections));
   }),
 
   rest.get("/api/collections/:handle", async (req, res, ctx) => {
