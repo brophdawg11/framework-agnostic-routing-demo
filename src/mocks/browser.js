@@ -4,7 +4,7 @@ import collectionsFull from "./data/collections-full.json";
 import products from "./data/products.json";
 
 window.ALL_SLOW = false;
-window.CART_SLOW = true;
+window.CART_SLOW = false;
 
 let sleep = (n) => new Promise((r) => setTimeout(r, n));
 let sleepIfSlow = () => (window.ALL_SLOW ? sleep(1500) : sleep(500));
