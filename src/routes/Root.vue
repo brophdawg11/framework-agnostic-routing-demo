@@ -10,11 +10,10 @@ import {
   useNavigation,
 } from "remix-router-vue";
 
-export async function loader({ request }: LoaderFunctionArgs) {
-  return fetch("/api/collections", { signal: request.signal });
-}
+// export async function loader({ request }: LoaderFunctionArgs) {
+//   return fetch("/api/collections", { signal: request.signal });
+// }
 
-/*
 async function getCartCount(signal: AbortSignal) {
   let res = await fetch("/api/cart", { signal });
   let cart = await res.json();
@@ -27,16 +26,13 @@ async function getCollections(signal: AbortSignal) {
 }
 
 export async function loader({ request }: LoaderFunctionArgs) {
-  let [collections, cartCount] = await Promise.all([
-    getCollections(request.signal),
-    getCartCount(request.signal),
-  ]);
-  return {
+  let cartCount = getCartCount(request.signal);
+  let [collections] = await Promise.all([getCollections(request.signal)]);
+  return defer({
     collections: collections.collections,
     cartCount,
-  };
+  });
 }
-*/
 </script>
 
 <script lang="ts" setup>
@@ -51,16 +47,16 @@ let navigation = useNavigation();
     <div>
       <!-- <span class="cart">🛍 {{ data.cartCount }}</span> -->
 
-      <!-- <Suspense>
+      <Suspense>
         <template #fallback>
           <span class="cart spin">🔄</span>
         </template>
         <Await :resolve="data.cartCount" v-slot="value">
           <span class="cart">🛍 {{ value }}</span>
         </Await>
-      </Suspense> -->
+      </Suspense>
 
-      <h1><Link to="/">Shop</Link></h1>
+      <h1><Link to="/">Board Shop</Link></h1>
     </div>
 
     <nav>
